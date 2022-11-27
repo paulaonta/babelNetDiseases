@@ -1,46 +1,78 @@
 import os, csv
 
-diseases_left = './results/diseasesLeft'
-myErrorFile = open(errors_path, 'a')
-writerP = csv.writer(myErrorFile)
-writerP.writerow(['name', 'link'])
 
-def contains_disease(name_wiki, link):
+def createFile(path):
+    if not os.path.exists(path):
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+
+
+def contains_disease(name):
     first = True
     contains = False
-    mycsv_wikidata = csv.reader(open(mydirname))
+    mycsv_wikidata = csv.reader(open(compare_directory))
     for line in mycsv_wikidata:
         if first:
             first = False
         else:
-            text = line[wikiD_link_pos]
-            name = line[0]
-            if len(text) != 0:
-                if str(text) == link or name.lower() == name_wiki.lower():
-                    contains = True
-                    break
+            name1 = line[0]
+            if name1.lower() == name.lower():
+                contains = True
+                break
 
     return contains
 
+def also_known_diseases(name):
+    first = True
+    contains = False
+    mycsv_wikidata = csv.reader(open(compare_directory))
+    # iterate the csv file
+    for line in mycsv_wikidata:
+        if first:
+            first = False
+        else:
+            also_known = line[also_pos] #get the name
+            also_known_diseases = [elem.lower().replace(" ", "") for elem in also_known.split(",")]
+            names = [elem.lower().replace(" ", "") for elem in name.split(",")]
+            if len(names) == 1:
+                if name.lower().replace(" ", "") in also_known_diseases:
+                    contains = True
+                    break
+            else:
+                print("sartu")
+                print(name)
+                if name == "Atelosteogenesis, type II"
+                for n in names:
+                    if n.replace(" ", "") in also_known_diseases:
+                        contains = True
+                    else:
+                        contains = False
+                        break
+
+    return contains
+
+
+main_directory = "./results/babelNet_diseases (copia).csv"
+compare_directory = "./results/diseases_info_en.csv"
+
 #open csv files
-mycsv_wikipedia = csv.reader(open(wiki_directory))
+mycsv_wikipedia = csv.reader(open(main_directory))
+first = True
+disease_name_pos = 2
+also_pos = 21
 
 rows = []
 for line in mycsv_wikipedia:
     if first:
         first = False
-        line.insert(wikiP_link_pos + 1, "Is it in Wikidata?")
+        line.insert(disease_name_pos + 1, "Is it in Wikidata?")
         rows.append(line)
     else:
-        link = line[wikiP_link_pos]
-        name_wiki = line[0]
-        if contains_disease(name_wiki, link) or also_known_diseases(name_wiki):
-            line.insert(wikiP_link_pos + 1, "Yes")
+        name = line[disease_name_pos]
+        if contains_disease(name) or also_known_diseases(name):
+            line.insert(disease_name_pos + 1, "Yes")
         rows.append(line)
 
-file_name = open(wiki_directory, 'w')
+file_name = open(main_directory, 'w')
 writer = csv.writer(file_name)
 writer.writerows(rows)
 
-#get diseases which are in wikipedia but not in wikidata
-get_wikipedia_diseases()

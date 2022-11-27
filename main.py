@@ -3,8 +3,8 @@ from urllib.request import urlopen
 import bs4
 
 def createFile(path):
-    if not os.path.exists(mydirname):
-        os.makedirs(os.path.dirname(mydirname), exist_ok=True)
+    if not os.path.exists(path):
+        os.makedirs(os.path.dirname(path), exist_ok=True)
 
 def createDirectory(path):
     if not os.path.exists(path):
