@@ -1,0 +1,460 @@
+Link,Name,Disease Name,Is it in Wikidata?
+http://babelnet.org/rdf/page/s00000219n,s00000219n,abasia,Yes
+http://babelnet.org/rdf/page/s00000337n,s00000337n,ablepharia
+http://babelnet.org/rdf/page/s00000377n,s00000377n,abulia,Yes
+http://babelnet.org/rdf/page/s00000602n,s00000602n,acanthosis nigricans,Yes
+http://babelnet.org/rdf/page/s00000880n,s00000880n,achlorhydria,Yes
+http://babelnet.org/rdf/page/s00000970n,s00000970n,auditory aphasia
+http://babelnet.org/rdf/page/s00001043n,s00001043n,oxycephaly,Yes
+http://babelnet.org/rdf/page/s00001214n,s00001214n,herpes simplex encephalitis,Yes
+http://babelnet.org/rdf/page/s00001292n,s00001292n,Addison's disease,Yes
+http://babelnet.org/rdf/page/s00001335n,s00001335n,adenocarcinoma,Yes
+http://babelnet.org/rdf/page/s00001680n,s00001680n,air embolism,Yes
+http://babelnet.org/rdf/page/s00002493n,s00002493n,albuminuria,Yes
+http://babelnet.org/rdf/page/s00002527n,s00002527n,dipsomania
+http://babelnet.org/rdf/page/s00003007n,s00003007n,alopecia,Yes
+http://babelnet.org/rdf/page/s00003311n,s00003311n,amebic dysentery,Yes
+http://babelnet.org/rdf/page/s00003320n,s00003320n,amelia,Yes
+http://babelnet.org/rdf/page/s00003715n,s00003715n,atonicity
+http://babelnet.org/rdf/page/s00003775n,s00003775n,analbuminemia,Yes
+http://babelnet.org/rdf/page/s00003855n,s00003855n,anasarca
+http://babelnet.org/rdf/page/s00004060n,s00004060n,aneurysm,Yes
+http://babelnet.org/rdf/page/s00004226n,s00004226n,animal disease
+http://babelnet.org/rdf/page/s00004423n,s00004423n,anorchism,Yes
+http://babelnet.org/rdf/page/s00004569n,s00004569n,anthrax,Yes
+http://babelnet.org/rdf/page/s00004866n,s00004866n,aphakia,Yes
+http://babelnet.org/rdf/page/s00005199n,s00005199n,tetany,Yes
+http://babelnet.org/rdf/page/s00005883n,s00005883n,cardiac arrhythmia,Yes
+http://babelnet.org/rdf/page/s00006396n,s00006396n,aspergillosis,Yes
+http://babelnet.org/rdf/page/s00006551n,s00006551n,conduction aphasia,Yes
+http://babelnet.org/rdf/page/s00006577n,s00006577n,astasia,Yes
+http://babelnet.org/rdf/page/s00006619n,s00006619n,astigmatism,Yes
+http://babelnet.org/rdf/page/s00006706n,s00006706n,motor aphasia
+http://babelnet.org/rdf/page/s00006709n,s00006709n,atelectasis,Yes
+http://babelnet.org/rdf/page/s00006710n,s00006710n,ateleiosis
+http://babelnet.org/rdf/page/s00006748n,s00006748n,tinea pedis,Yes
+http://babelnet.org/rdf/page/s00006979n,s00006979n,atrophy,Yes
+http://babelnet.org/rdf/page/s00007074n,s00007074n,atypical pneumonia,Yes
+http://babelnet.org/rdf/page/s00007349n,s00007349n,autoimmune disease,Yes
+http://babelnet.org/rdf/page/s00007582n,s00007582n,uremia,Yes
+http://babelnet.org/rdf/page/s00007933n,s00007933n,bagassosis,Yes
+http://babelnet.org/rdf/page/s00008327n,s00008327n,bowleg
+http://babelnet.org/rdf/page/s00009482n,s00009482n,bed-wetting
+http://babelnet.org/rdf/page/s00010673n,s00010673n,birth defect,Yes
+http://babelnet.org/rdf/page/s00010995n,s00010995n,hairy tongue,Yes
+http://babelnet.org/rdf/page/s00011055n,s00011055n,blackwater
+http://babelnet.org/rdf/page/s00011192n,s00011192n,hemophilia,Yes
+http://babelnet.org/rdf/page/s00011271n,s00011271n,blindness,Yes
+http://babelnet.org/rdf/page/s00011303n,s00011303n,bloat
+http://babelnet.org/rdf/page/s00012249n,s00012249n,epidemic pleurodynia,Yes
+http://babelnet.org/rdf/page/s00012453n,s00012453n,Marseilles fever,Yes
+http://babelnet.org/rdf/page/s00012695n,s00012695n,cerebral edema,Yes
+http://babelnet.org/rdf/page/s00012702n,s00012702n,brain tumor,Yes
+http://babelnet.org/rdf/page/s00012772n,s00012772n,rhinophyma,Yes
+http://babelnet.org/rdf/page/s00012902n,s00012902n,fracture,Yes
+http://babelnet.org/rdf/page/s00012953n,s00012953n,breast cancer,Yes
+http://babelnet.org/rdf/page/s00013313n,s00013313n,bronchitis,Yes
+http://babelnet.org/rdf/page/s00013332n,s00013332n,hemochromatosis,Yes
+http://babelnet.org/rdf/page/s00015206n,s00015206n,candidiasis,Yes
+http://babelnet.org/rdf/page/s00015909n,s00015909n,carcinoid,Yes
+http://babelnet.org/rdf/page/s00015910n,s00015910n,carcinoma,Yes
+http://babelnet.org/rdf/page/s00015975n,s00015975n,cardiogenic shock,Yes
+http://babelnet.org/rdf/page/s00015983n,s00015983n,cardiomegaly,Yes
+http://babelnet.org/rdf/page/s00016626n,s00016626n,cat scratch disease,Yes
+http://babelnet.org/rdf/page/s00016684n,s00016684n,catarrh,Yes
+http://babelnet.org/rdf/page/s00016690n,s00016690n,catastrophic illness
+http://babelnet.org/rdf/page/s00016842n,s00016842n,cauliflower ear
+http://babelnet.org/rdf/page/s00017244n,s00017244n,encephalitis,Yes
+http://babelnet.org/rdf/page/s00017334n,s00017334n,cerebral hemorrhage,Yes
+http://babelnet.org/rdf/page/s00017391n,s00017391n,cervicitis,Yes
+http://babelnet.org/rdf/page/s00017784n,s00017784n,Charcot-Marie-Tooth disease,Yes
+http://babelnet.org/rdf/page/s00018344n,s00018344n,chilblain
+http://babelnet.org/rdf/page/s00018907n,s00018907n,chronic obstructive pulmonary disease,Yes
+http://babelnet.org/rdf/page/s00019040n,s00019040n,elephantiasis scroti,Yes
+http://babelnet.org/rdf/page/s00020075n,s00020075n,histamine headache
+http://babelnet.org/rdf/page/s00020238n,s00020238n,coccidioidomycosis,Yes
+http://babelnet.org/rdf/page/s00020580n,s00020580n,colic,Yes
+http://babelnet.org/rdf/page/s00021219n,s00021219n,communicable disease,Yes
+http://babelnet.org/rdf/page/s00021388n,s00021388n,complication
+http://babelnet.org/rdf/page/s00021677n,s00021677n,conductive hearing loss,Yes
+http://babelnet.org/rdf/page/s00021810n,s00021810n,genetic disease,Yes
+http://babelnet.org/rdf/page/s00021872n,s00021872n,Siamese twin
+http://babelnet.org/rdf/page/s00021888n,s00021888n,conjunctivitis,Yes
+http://babelnet.org/rdf/page/s00022126n,s00022126n,contagious disease
+http://babelnet.org/rdf/page/s00022798n,s00022798n,coronary occlusion,Yes
+http://babelnet.org/rdf/page/s00023771n,s00023771n,cretinism,Yes
+http://babelnet.org/rdf/page/s00024111n,s00024111n,crud
+http://babelnet.org/rdf/page/s00024172n,s00024172n,frostbite,Yes
+http://babelnet.org/rdf/page/s00024395n,s00024395n,procrastination,Yes
+http://babelnet.org/rdf/page/s00024562n,s00024562n,Cushing's disease,Yes
+http://babelnet.org/rdf/page/s00024563n,s00024563n,Cushing's syndrome,Yes
+http://babelnet.org/rdf/page/s00024880n,s00024880n,cyst,Yes
+http://babelnet.org/rdf/page/s00024883n,s00024883n,fibrocystic breast disease
+http://babelnet.org/rdf/page/s00024886n,s00024886n,cystitis,Yes
+http://babelnet.org/rdf/page/s00025163n,s00025163n,dandruff,Yes
+http://babelnet.org/rdf/page/s00025463n,s00025463n,daze
+http://babelnet.org/rdf/page/s00025915n,s00025915n,deficiency disease,Yes
+http://babelnet.org/rdf/page/s00025962n,s00025962n,osteoarthritis,Yes
+http://babelnet.org/rdf/page/s00026057n,s00026057n,delirium,Yes
+http://babelnet.org/rdf/page/s00026058n,s00026058n,delirium tremens,Yes
+http://babelnet.org/rdf/page/s00026355n,s00026355n,depersonalization,Yes
+http://babelnet.org/rdf/page/s00026454n,s00026454n,dermatitis,Yes
+http://babelnet.org/rdf/page/s00026495n,s00026495n,prolapse,Yes
+http://babelnet.org/rdf/page/s00026932n,s00026932n,dichromacy
+http://babelnet.org/rdf/page/s00027273n,s00027273n,diplegia,Yes
+http://babelnet.org/rdf/page/s00027547n,s00027547n,disease of the neuromuscular junction
+http://babelnet.org/rdf/page/s00027548n,s00027548n,skin disease,Yes
+http://babelnet.org/rdf/page/s00027746n,s00027746n,distal muscular dystrophy,Yes
+http://babelnet.org/rdf/page/s00027818n,s00027818n,mental disorder,Yes
+http://babelnet.org/rdf/page/s00027872n,s00027872n,diverticulum,Yes
+http://babelnet.org/rdf/page/s00028967n,s00028967n,dryness,Yes
+http://babelnet.org/rdf/page/s00029273n,s00029273n,dwarfism,Yes
+http://babelnet.org/rdf/page/s00029308n,s00029308n,dysarthria,Yes
+http://babelnet.org/rdf/page/s00029318n,s00029318n,dyslexia,Yes
+http://babelnet.org/rdf/page/s00029320n,s00029320n,dysmenorrhea,Yes
+http://babelnet.org/rdf/page/s00029322n,s00029322n,dysosmia,Yes
+http://babelnet.org/rdf/page/s00029323n,s00029323n,Hurler's syndrome
+http://babelnet.org/rdf/page/s00029331n,s00029331n,dysplasia,Yes
+http://babelnet.org/rdf/page/s00029699n,s00029699n,ectopia,Yes
+http://babelnet.org/rdf/page/s00030318n,s00030318n,elephantiasis,Yes
+http://babelnet.org/rdf/page/s00030511n,s00030511n,embryonal rhabdomyosarcoma,Yes
+http://babelnet.org/rdf/page/s00030600n,s00030600n,emphysema,Yes
+http://babelnet.org/rdf/page/s00030641n,s00030641n,empyema,Yes
+http://babelnet.org/rdf/page/s00030753n,s00030753n,endemic
+http://babelnet.org/rdf/page/s00030778n,s00030778n,metritis,Yes
+http://babelnet.org/rdf/page/s00031001n,s00031001n,enteropathy,Yes
+http://babelnet.org/rdf/page/s00031066n,s00031066n,enuresis,Yes
+http://babelnet.org/rdf/page/s00031142n,s00031142n,epicondylitis,Yes
+http://babelnet.org/rdf/page/s00031230n,s00031230n,epispadias,Yes
+http://babelnet.org/rdf/page/s00031255n,s00031255n,epithelioma,Yes
+http://babelnet.org/rdf/page/s00031504n,s00031504n,erysipelas,Yes
+http://babelnet.org/rdf/page/s00031510n,s00031510n,erythema nodosum,Yes
+http://babelnet.org/rdf/page/s00031522n,s00031522n,erythroderma,Yes
+http://babelnet.org/rdf/page/s00032104n,s00032104n,exanthema subitum,Yes
+http://babelnet.org/rdf/page/s00032529n,s00032529n,eye disease,Yes
+http://babelnet.org/rdf/page/s00032531n,s00032531n,sty
+http://babelnet.org/rdf/page/s00034420n,s00034420n,filariasis,Yes
+http://babelnet.org/rdf/page/s00034891n,s00034891n,fistula,Yes
+http://babelnet.org/rdf/page/s00035106n,s00035106n,flatfoot,Yes
+http://babelnet.org/rdf/page/s00035153n,s00035153n,flea bite,Yes
+http://babelnet.org/rdf/page/s00035268n,s00035268n,musca volitans
+http://babelnet.org/rdf/page/s00035422n,s00035422n,Wernicke's aphasia
+http://babelnet.org/rdf/page/s00035559n,s00035559n,focal seizure
+http://babelnet.org/rdf/page/s00035621n,s00035621n,folliculitis,Yes
+http://babelnet.org/rdf/page/s00035664n,s00035664n,food poisoning,Yes
+http://babelnet.org/rdf/page/s00036651n,s00036651n,frontal sinus
+http://babelnet.org/rdf/page/s00036684n,s00036684n,fructosuria,Yes
+http://babelnet.org/rdf/page/s00036830n,s00036830n,functional disorder
+http://babelnet.org/rdf/page/s00040415n,s00040415n,giantism,Yes
+http://babelnet.org/rdf/page/s00040595n,s00040595n,infectious mononucleosis,Yes
+http://babelnet.org/rdf/page/s00040917n,s00040917n,goiter,Yes
+http://babelnet.org/rdf/page/s00041395n,s00041395n,granuloma,Yes
+http://babelnet.org/rdf/page/s00042412n,s00042412n,habitual abortion,Yes
+http://babelnet.org/rdf/page/s00042483n,s00042483n,hemorrhoid,Yes
+http://babelnet.org/rdf/page/s00042486n,s00042486n,hemosiderosis,Yes
+http://babelnet.org/rdf/page/s00042715n,s00042715n,hamartoma,Yes
+http://babelnet.org/rdf/page/s00042773n,s00042773n,Hand-Schuller-Christian disease,Yes
+http://babelnet.org/rdf/page/s00043426n,s00043426n,heat exhaustion
+http://babelnet.org/rdf/page/s00043656n,s00043656n,migraine,Yes
+http://babelnet.org/rdf/page/s00043664n,s00043664n,hemiplegia,Yes
+http://babelnet.org/rdf/page/s00043848n,s00043848n,hernia,Yes
+http://babelnet.org/rdf/page/s00043849n,s00043849n,herniated disc
+http://babelnet.org/rdf/page/s00043874n,s00043874n,herpes simplex,Yes
+http://babelnet.org/rdf/page/s00044056n,s00044056n,high blood pressure,Yes
+http://babelnet.org/rdf/page/s00044238n,s00044238n,hirsuteness
+http://babelnet.org/rdf/page/s00044428n,s00044428n,lordosis,Yes
+http://babelnet.org/rdf/page/s00045208n,s00045208n,kyphosis,Yes
+http://babelnet.org/rdf/page/s00045408n,s00045408n,rabies,Yes
+http://babelnet.org/rdf/page/s00045514n,s00045514n,lipemia,Yes
+http://babelnet.org/rdf/page/s00045532n,s00045532n,hyperplasia,Yes
+http://babelnet.org/rdf/page/s00045549n,s00045549n,hypertrophy,Yes
+http://babelnet.org/rdf/page/s00045552n,s00045552n,hypervitaminosis,Yes
+http://babelnet.org/rdf/page/s00045553n,s00045553n,hypervolemia,Yes
+http://babelnet.org/rdf/page/s00045577n,s00045577n,hypocalcemia,Yes
+http://babelnet.org/rdf/page/s00045602n,s00045602n,hyponatremia,Yes
+http://babelnet.org/rdf/page/s00045630n,s00045630n,hypothermia,Yes
+http://babelnet.org/rdf/page/s00045640n,s00045640n,hypovolemia,Yes
+http://babelnet.org/rdf/page/s00045642n,s00045642n,hypoxia,Yes
+http://babelnet.org/rdf/page/s00045792n,s00045792n,seizure,Yes
+http://babelnet.org/rdf/page/s00045843n,s00045843n,idiopathic disease
+http://babelnet.org/rdf/page/s00045844n,s00045844n,thrombocytopenic purpura,Yes
+http://babelnet.org/rdf/page/s00045916n,s00045916n,ileitis,Yes
+http://babelnet.org/rdf/page/s00046325n,s00046325n,incompetence
+http://babelnet.org/rdf/page/s00046564n,s00046564n,occupational disease,Yes
+http://babelnet.org/rdf/page/s00046630n,s00046630n,infectious disease,Yes
+http://babelnet.org/rdf/page/s00046653n,s00046653n,inferiority complex,Yes
+http://babelnet.org/rdf/page/s00046672n,s00046672n,inflammation
+http://babelnet.org/rdf/page/s00046673n,s00046673n,inflammatory disease
+http://babelnet.org/rdf/page/s00046756n,s00046756n,inguinal hernia,Yes
+http://babelnet.org/rdf/page/s00046918n,s00046918n,insomnia,Yes
+http://babelnet.org/rdf/page/s00047225n,s00047225n,pneumocytosis
+http://babelnet.org/rdf/page/s00047228n,s00047228n,intertrigo,Yes
+http://babelnet.org/rdf/page/s00047565n,s00047565n,irritable bowel syndrome,Yes
+http://babelnet.org/rdf/page/s00047725n,s00047725n,scabies,Yes
+http://babelnet.org/rdf/page/s00048170n,s00048170n,jet lag,Yes
+http://babelnet.org/rdf/page/s00048856n,s00048856n,Kawasaki disease,Yes
+http://babelnet.org/rdf/page/s00048939n,s00048939n,keratoconus,Yes
+http://babelnet.org/rdf/page/s00048952n,s00048952n,keratosis pilaris,Yes
+http://babelnet.org/rdf/page/s00048956n,s00048956n,kerion,Yes
+http://babelnet.org/rdf/page/s00049637n,s00049637n,lactose intolerance,Yes
+http://babelnet.org/rdf/page/s00050059n,s00050059n,laryngospasm,Yes
+http://babelnet.org/rdf/page/s00050136n,s00050136n,tennis elbow,Yes
+http://babelnet.org/rdf/page/s00051627n,s00051627n,liver disease,Yes
+http://babelnet.org/rdf/page/s00052428n,s00052428n,Lyme disease,Yes
+http://babelnet.org/rdf/page/s00052437n,s00052437n,lymphangiectasia,Yes
+http://babelnet.org/rdf/page/s00052444n,s00052444n,lymphedema,Yes
+http://babelnet.org/rdf/page/s00052605n,s00052605n,macrocephaly,Yes
+http://babelnet.org/rdf/page/s00052626n,s00052626n,macular degeneration,Yes
+http://babelnet.org/rdf/page/s00052919n,s00052919n,seasickness,Yes
+http://babelnet.org/rdf/page/s00053003n,s00053003n,malignancy
+http://babelnet.org/rdf/page/s00054231n,s00054231n,melanosis,Yes
+http://babelnet.org/rdf/page/s00060510n,s00060510n,sandfly fever,Yes
+http://babelnet.org/rdf/page/s00060578n,s00060578n,paralysis agitans,Yes
+http://babelnet.org/rdf/page/s00060599n,s00060599n,paranoid schizophrenia,Yes
+http://babelnet.org/rdf/page/s00061578n,s00061578n,periarteritis nodosa,Yes
+http://babelnet.org/rdf/page/s00061618n,s00061618n,periodontal disease,Yes
+http://babelnet.org/rdf/page/s00061801n,s00061801n,petechia,Yes
+http://babelnet.org/rdf/page/s00061939n,s00061939n,phenylketonuria,Yes
+http://babelnet.org/rdf/page/s00062352n,s00062352n,pigeon toes
+http://babelnet.org/rdf/page/s00062804n,s00062804n,plant disease
+http://babelnet.org/rdf/page/s00062821n,s00062821n,plantar wart,Yes
+http://babelnet.org/rdf/page/s00063439n,s00063439n,polymyositis,Yes
+http://babelnet.org/rdf/page/s00064562n,s00064562n,proctitis,Yes
+http://babelnet.org/rdf/page/s00064641n,s00064641n,progeria,Yes
+http://babelnet.org/rdf/page/s00065004n,s00065004n,psoriasis,Yes
+http://babelnet.org/rdf/page/s00065387n,s00065387n,pycnosis
+http://babelnet.org/rdf/page/s00066119n,s00066119n,Ramsay Hunt syndrome,Yes
+http://babelnet.org/rdf/page/s00066985n,s00066985n,Reiter's syndrome,Yes
+http://babelnet.org/rdf/page/s00067360n,s00067360n,respiratory disease,Yes
+http://babelnet.org/rdf/page/s00067361n,s00067361n,respiratory tract infection,Yes
+http://babelnet.org/rdf/page/s00067616n,s00067616n,rheumatism
+http://babelnet.org/rdf/page/s00067892n,s00067892n,tinea,Yes
+http://babelnet.org/rdf/page/s00068950n,s00068950n,sialolith,Yes
+http://babelnet.org/rdf/page/s00070553n,s00070553n,sepsis,Yes
+http://babelnet.org/rdf/page/s00070571n,s00070571n,sequela
+http://babelnet.org/rdf/page/s00070643n,s00070643n,serum sickness,Yes
+http://babelnet.org/rdf/page/s00072367n,s00072367n,smut,Yes
+http://babelnet.org/rdf/page/s00072387n,s00072387n,snakebite,Yes
+http://babelnet.org/rdf/page/s00072457n,s00072457n,snowblindness,Yes
+http://babelnet.org/rdf/page/s00073480n,s00073480n,splenomegaly,Yes
+http://babelnet.org/rdf/page/s00073603n,s00073603n,spotted fever,Yes
+http://babelnet.org/rdf/page/s00074187n,s00074187n,stenosis,Yes
+http://babelnet.org/rdf/page/s00075440n,s00075440n,survivor guilt,Yes
+http://babelnet.org/rdf/page/s00075719n,s00075719n,syndrome,Yes
+http://babelnet.org/rdf/page/s00076117n,s00076117n,tapeworm infection,Yes
+http://babelnet.org/rdf/page/s00076555n,s00076555n,tension headache,Yes
+http://babelnet.org/rdf/page/s00077348n,s00077348n,tinea unguium,Yes
+http://babelnet.org/rdf/page/s00077691n,s00077691n,torticollis,Yes
+http://babelnet.org/rdf/page/s00078673n,s00078673n,Turner's syndrome,Yes
+http://babelnet.org/rdf/page/s00079266n,s00079266n,upper respiratory infection,Yes
+http://babelnet.org/rdf/page/s00079343n,s00079343n,urinary tract infection,Yes
+http://babelnet.org/rdf/page/s00079421n,s00079421n,uveitis,Yes
+http://babelnet.org/rdf/page/s00079595n,s00079595n,varicose vein,Yes
+http://babelnet.org/rdf/page/s00079759n,s00079759n,ventricular fibrillation,Yes
+http://babelnet.org/rdf/page/s00079819n,s00079819n,wart,Yes
+http://babelnet.org/rdf/page/s00081758n,s00081758n,xanthoma,Yes
+http://babelnet.org/rdf/page/s00081791n,s00081791n,XYY,Yes
+http://babelnet.org/rdf/page/s00082069n,s00082069n,Zollinger-Ellison syndrome,Yes
+http://babelnet.org/rdf/page/s00117894n,s00117894n,Currarino syndrome,Yes
+http://babelnet.org/rdf/page/s00119593n,s00119593n,loxoscelism,Yes
+http://babelnet.org/rdf/page/s00120177n,s00120177n,hereditary multiple exostoses,Yes
+http://babelnet.org/rdf/page/s00122675n,s00122675n,pipecolic acidemia,Yes
+http://babelnet.org/rdf/page/s00126054n,s00126054n,Ebstein's anomaly,Yes
+http://babelnet.org/rdf/page/s00126786n,s00126786n,Transfusion hemosiderosis,Yes
+http://babelnet.org/rdf/page/s00129001n,s00129001n,Mallory–Weiss syndrome,Yes
+http://babelnet.org/rdf/page/s00129075n,s00129075n,Cushing ulcer,Yes
+http://babelnet.org/rdf/page/s00129082n,s00129082n,linitis plastica,Yes
+http://babelnet.org/rdf/page/s00137433n,s00137433n,hepatosplenomegaly,Yes
+http://babelnet.org/rdf/page/s00138150n,s00138150n,generalized lymphadenopathy,Yes
+http://babelnet.org/rdf/page/s00139968n,s00139968n,galactokinase deficiency,Yes
+http://babelnet.org/rdf/page/s00140177n,s00140177n,prolactinoma,Yes
+http://babelnet.org/rdf/page/s00140192n,s00140192n,ependymoma,Yes
+http://babelnet.org/rdf/page/s00141994n,s00141994n,dactylitis,Yes
+http://babelnet.org/rdf/page/s00144880n,s00144880n,aldolase A deficiency,Yes
+http://babelnet.org/rdf/page/s00146394n,s00146394n,fluoride toxicity,Yes
+http://babelnet.org/rdf/page/s00151832n,s00151832n,Intestinal varices,Yes
+http://babelnet.org/rdf/page/s00152952n,s00152952n,17-beta-hydroxysteroid dehydrogenase deficiency,Yes
+http://babelnet.org/rdf/page/s00153175n,s00153175n,proteinopathy,Yes
+http://babelnet.org/rdf/page/s00153472n,s00153472n,chronic pancreatitis,Yes
+http://babelnet.org/rdf/page/s00157029n,s00157029n,bulbar palsy,Yes
+http://babelnet.org/rdf/page/s00158224n,s00158224n,Chronic Somogyi rebound,Yes
+http://babelnet.org/rdf/page/s00165078n,s00165078n,Jumping Frenchmen of Maine,Yes
+http://babelnet.org/rdf/page/s00165082n,s00165082n,paraphasia,Yes
+http://babelnet.org/rdf/page/s00165838n,s00165838n,hemoglobin Barts,Yes
+http://babelnet.org/rdf/page/s00173282n,s00173282n,spinal cord injury,Yes
+http://babelnet.org/rdf/page/s00174450n,s00174450n,normal pressure hydrocephalus,Yes
+http://babelnet.org/rdf/page/s00176121n,s00176121n,heparin-induced thrombocytopenia,Yes
+http://babelnet.org/rdf/page/s00176395n,s00176395n,arterial tortuosity syndrome,Yes
+http://babelnet.org/rdf/page/s00176970n,s00176970n,dementia pugilistica,Yes
+http://babelnet.org/rdf/page/s00181152n,s00181152n,Chemotherapy-induced acral erythema,Yes
+http://babelnet.org/rdf/page/s00184279n,s00184279n,Geniculate ganglionitis,Yes
+http://babelnet.org/rdf/page/s00186056n,s00186056n,systolic hypertension,Yes
+http://babelnet.org/rdf/page/s00191878n,s00191878n,T-cell prolymphocytic leukemia,Yes
+http://babelnet.org/rdf/page/s00192537n,s00192537n,potassium-aggravated myotonia,Yes
+http://babelnet.org/rdf/page/s00199550n,s00199550n,gross pathology
+http://babelnet.org/rdf/page/s00199886n,s00199886n,Zimmermann–Laband syndrome,Yes
+http://babelnet.org/rdf/page/s00201404n,s00201404n,Zunich–Kaye syndrome,Yes
+http://babelnet.org/rdf/page/s00205375n,s00205375n,Barcoo fever,Yes
+http://babelnet.org/rdf/page/s00208729n,s00208729n,reflux nephropathy,Yes
+http://babelnet.org/rdf/page/s00211140n,s00211140n,aggressive NK-cell leukemia,Yes
+http://babelnet.org/rdf/page/s00213743n,s00213743n,Idiopathic giant-cell myocarditis,Yes
+http://babelnet.org/rdf/page/s00213828n,s00213828n,mevalonate kinase
+http://babelnet.org/rdf/page/s00213948n,s00213948n,pentosuria,Yes
+http://babelnet.org/rdf/page/s00214001n,s00214001n,coxa valga,Yes
+http://babelnet.org/rdf/page/s00215350n,s00215350n,condylomata lata,Yes
+http://babelnet.org/rdf/page/s00216795n,s00216795n,DeSanctis–Cacchione syndrome,Yes
+http://babelnet.org/rdf/page/s00221027n,s00221027n,galactose epimerase deficiency,Yes
+http://babelnet.org/rdf/page/s00221565n,s00221565n,hepatosplenic T-cell lymphoma,Yes
+http://babelnet.org/rdf/page/s00224245n,s00224245n,uncombable hair syndrome,Yes
+http://babelnet.org/rdf/page/s00224759n,s00224759n,Urban–Rogers–Meyer syndrome,Yes
+http://babelnet.org/rdf/page/s00227374n,s00227374n,usual interstitial pneumonia,Yes
+http://babelnet.org/rdf/page/s00232691n,s00232691n,angioimmunoblastic T-cell lymphoma,Yes
+http://babelnet.org/rdf/page/s00234312n,s00234312n,intestinal ischemia
+http://babelnet.org/rdf/page/s00236287n,s00236287n,diastematomyelia,Yes
+http://babelnet.org/rdf/page/s00250923n,s00250923n,rhinoscleroma,Yes
+http://babelnet.org/rdf/page/s00253425n,s00253425n,orotic aciduria,Yes
+http://babelnet.org/rdf/page/s00259507n,s00259507n,congenital contractural arachnodactyly,Yes
+http://babelnet.org/rdf/page/s00263972n,s00263972n,Cat eye syndrome,Yes
+http://babelnet.org/rdf/page/s00265815n,s00265815n,encephalopathy due to GLUT1 deficiency,Yes
+http://babelnet.org/rdf/page/s00267709n,s00267709n,caput medusae,Yes
+http://babelnet.org/rdf/page/s00280425n,s00280425n,psychogenic disease,Yes
+http://babelnet.org/rdf/page/s00281406n,s00281406n,paraneoplastic syndrome,Yes
+http://babelnet.org/rdf/page/s00284515n,s00284515n,medullary carcinoma,Yes
+http://babelnet.org/rdf/page/s00292321n,s00292321n,cor bovinum,Yes
+http://babelnet.org/rdf/page/s00295774n,s00295774n,lateral pontine syndrome,Yes
+http://babelnet.org/rdf/page/s00296109n,s00296109n,heterophoria,Yes
+http://babelnet.org/rdf/page/s00296666n,s00296666n,polyradiculoneuropathy,Yes
+http://babelnet.org/rdf/page/s00298598n,s00298598n,abnormal uterine bleeding,Yes
+http://babelnet.org/rdf/page/s00299405n,s00299405n,gestational trophoblastic disease,Yes
+http://babelnet.org/rdf/page/s00299418n,s00299418n,gestational choriocarcinoma,Yes
+http://babelnet.org/rdf/page/s00300430n,s00300430n,tonsillolith,Yes
+http://babelnet.org/rdf/page/s00302892n,s00302892n,Brenner tumor,Yes
+http://babelnet.org/rdf/page/s00302903n,s00302903n,mucinous tumor,Yes
+http://babelnet.org/rdf/page/s00302906n,s00302906n,ovarian serous tumor
+http://babelnet.org/rdf/page/s00304405n,s00304405n,binasal hemianopsia,Yes
+http://babelnet.org/rdf/page/s00310411n,s00310411n,Bálint's syndrome,Yes
+http://babelnet.org/rdf/page/s00316518n,s00316518n,Foix–Alajouanine syndrome,Yes
+http://babelnet.org/rdf/page/s00321984n,s00321984n,herpes gladiatorum,Yes
+http://babelnet.org/rdf/page/s00331659n,s00331659n,Ladd's bands,Yes
+http://babelnet.org/rdf/page/s00333447n,s00333447n,Potter's syndrome,Yes
+http://babelnet.org/rdf/page/s00333921n,s00333921n,2q37 deletion syndrome,Yes
+http://babelnet.org/rdf/page/s00343813n,s00343813n,non-celiac gluten sensitivity,Yes
+http://babelnet.org/rdf/page/s00345112n,s00345112n,parapneumonic effusion,Yes
+http://babelnet.org/rdf/page/s00354291n,s00354291n,aortoiliac occlusive disease,Yes
+http://babelnet.org/rdf/page/s00360226n,s00360226n,autosplenectomy,Yes
+http://babelnet.org/rdf/page/s00369057n,s00369057n,infantile Refsum disease,Yes
+http://babelnet.org/rdf/page/s00369059n,s00369059n,neonatal adrenoleukodystrophy,Yes
+http://babelnet.org/rdf/page/s00373395n,s00373395n,vermiphobia,Yes
+http://babelnet.org/rdf/page/s00375739n,s00375739n,lipoatrophy,Yes
+http://babelnet.org/rdf/page/s00376958n,s00376958n,flat wart,Yes
+http://babelnet.org/rdf/page/s00376976n,s00376976n,ancylostomiasis,Yes
+http://babelnet.org/rdf/page/s00378091n,s00378091n,green Tobacco Sickness,Yes
+http://babelnet.org/rdf/page/s00379262n,s00379262n,selective mutism,Yes
+http://babelnet.org/rdf/page/s00381680n,s00381680n,Bietti's crystalline dystrophy,Yes
+http://babelnet.org/rdf/page/s00395230n,s00395230n,middle cerebral artery infarction,Yes
+http://babelnet.org/rdf/page/s00397224n,s00397224n,persistent cloaca,Yes
+http://babelnet.org/rdf/page/s00400723n,s00400723n,hyperandrogenism,Yes
+http://babelnet.org/rdf/page/s00414664n,s00414664n,progressive myoclonus epilepsy,Yes
+http://babelnet.org/rdf/page/s00422895n,s00422895n,junctional tachycardia,Yes
+http://babelnet.org/rdf/page/s00424159n,s00424159n,Primrose syndrome,Yes
+http://babelnet.org/rdf/page/s00427356n,s00427356n,scleromyositis,Yes
+http://babelnet.org/rdf/page/s00431969n,s00431969n,glomerulosclerosis,Yes
+http://babelnet.org/rdf/page/s00433623n,s00433623n,rotator cuff tear,Yes
+http://babelnet.org/rdf/page/s00433790n,s00433790n,lymphocytic interstitial pneumonia,Yes
+http://babelnet.org/rdf/page/s00434526n,s00434526n,erythema marginatum,Yes
+http://babelnet.org/rdf/page/s00441188n,s00441188n,fibromatosis,Yes
+http://babelnet.org/rdf/page/s00443527n,s00443527n,eye injury,Yes
+http://babelnet.org/rdf/page/s00445659n,s00445659n,taijin kyofusho,Yes
+http://babelnet.org/rdf/page/s00450065n,s00450065n,vitamin B12 deficiency,Yes
+http://babelnet.org/rdf/page/s00454731n,s00454731n,glucose-galactose malabsorption,Yes
+http://babelnet.org/rdf/page/s00454747n,s00454747n,hyperprolinemia,Yes
+http://babelnet.org/rdf/page/s00454757n,s00454757n,infantile neuroaxonal dystrophy,Yes
+http://babelnet.org/rdf/page/s00459273n,s00459273n,Pretzel syndrome,Yes
+http://babelnet.org/rdf/page/s00461668n,s00461668n,polyembryoma,Yes
+http://babelnet.org/rdf/page/s00464159n,s00464159n,angiostrongyliasis,Yes
+http://babelnet.org/rdf/page/s00464330n,s00464330n,myeloperoxidase deficiency,Yes
+http://babelnet.org/rdf/page/s00479548n,s00479548n,malakoplakia,Yes
+http://babelnet.org/rdf/page/s00485875n,s00485875n,enchondromatosis,Yes
+http://babelnet.org/rdf/page/s00492278n,s00492278n,acoustic shock,Yes
+http://babelnet.org/rdf/page/s00492967n,s00492967n,paroxysmal extreme pain disorder,Yes
+http://babelnet.org/rdf/page/s00497390n,s00497390n,acute motor axonal neuropathy,Yes
+http://babelnet.org/rdf/page/s00499690n,s00499690n,medullary sponge kidney,Yes
+http://babelnet.org/rdf/page/s00501905n,s00501905n,triple-negative breast cancer,Yes
+http://babelnet.org/rdf/page/s00506862n,s00506862n,B-cell prolymphocytic leukemia,Yes
+http://babelnet.org/rdf/page/s00522218n,s00522218n,blastocystosis,Yes
+http://babelnet.org/rdf/page/s00532525n,s00532525n,aging-associated diseases
+http://babelnet.org/rdf/page/s00537837n,s00537837n,levator ani syndrome,Yes
+http://babelnet.org/rdf/page/s00538668n,s00538668n,glucocorticoid-induced osteoporosis,Yes
+http://babelnet.org/rdf/page/s00541656n,s00541656n,diseases of affluence
+http://babelnet.org/rdf/page/s00542526n,s00542526n,Hurler–Scheie syndrome,Yes
+http://babelnet.org/rdf/page/s00545431n,s00545431n,Malouf syndrome,Yes
+http://babelnet.org/rdf/page/s00560335n,s00560335n,thyroid nodule,Yes
+http://babelnet.org/rdf/page/s00583637n,s00583637n,Wildlife disease
+http://babelnet.org/rdf/page/s00584065n,s00584065n,hereditary neuralgic amyotrophy,Yes
+http://babelnet.org/rdf/page/s00588456n,s00588456n,cervical polyp,Yes
+http://babelnet.org/rdf/page/s00593964n,s00593964n,obstructive uropathy,Yes
+http://babelnet.org/rdf/page/s00596294n,s00596294n,Lymphoblastic lymphoma,Yes
+http://babelnet.org/rdf/page/s00596484n,s00596484n,colorectal polyp,Yes
+http://babelnet.org/rdf/page/s00599073n,s00599073n,obstructive lung disease,Yes
+http://babelnet.org/rdf/page/s00599779n,s00599779n,Hepatization of lungs,Yes
+http://babelnet.org/rdf/page/s00603499n,s00603499n,struma ovarii,Yes
+http://babelnet.org/rdf/page/s00605702n,s00605702n,Müllerian agenesis,Yes
+http://babelnet.org/rdf/page/s00610904n,s00610904n,Dhat syndrome,Yes
+http://babelnet.org/rdf/page/s00626471n,s00626471n,thyroid neoplasm,Yes
+http://babelnet.org/rdf/page/s00626604n,s00626604n,persistent aura without infarction,Yes
+http://babelnet.org/rdf/page/s00626974n,s00626974n,idiopathic interstitial pneumonia,Yes
+http://babelnet.org/rdf/page/s00630495n,s00630495n,specific social phobia,Yes
+http://babelnet.org/rdf/page/s00632173n,s00632173n,steatocystoma multiplex,Yes
+http://babelnet.org/rdf/page/s00635103n,s00635103n,Surfer's myelopathy,Yes
+http://babelnet.org/rdf/page/s00640481n,s00640481n,cognitive disorder,Yes
+http://babelnet.org/rdf/page/s00642282n,s00642282n,pelvic tumor,Yes
+http://babelnet.org/rdf/page/s00646954n,s00646954n,Accelerated phase chronic myelogenous leukemia,Yes
+http://babelnet.org/rdf/page/s00647756n,s00647756n,cancer of unknown primary origin,Yes
+http://babelnet.org/rdf/page/s00647826n,s00647826n,Hypervitaminosis E,Yes
+http://babelnet.org/rdf/page/s00648635n,s00648635n,chronic eosinophilic leukemia,Yes
+http://babelnet.org/rdf/page/s00649192n,s00649192n,Extravasation of urine,Yes
+http://babelnet.org/rdf/page/s00651253n,s00651253n,malignant pleural effusion,Yes
+http://babelnet.org/rdf/page/s00652618n,s00652618n,Ellis–Van Creveld syndrome,Yes
+http://babelnet.org/rdf/page/s00652929n,s00652929n,osteoid osteoma,Yes
+http://babelnet.org/rdf/page/s00653467n,s00653467n,anosodiaphoria,Yes
+http://babelnet.org/rdf/page/s00653569n,s00653569n,bilateral frontoparietal polymicrogyria,Yes
+http://babelnet.org/rdf/page/s00653924n,s00653924n,mismatch repair cancer syndrome,Yes
+http://babelnet.org/rdf/page/s00655191n,s00655191n,auditory neuropathy,Yes
+http://babelnet.org/rdf/page/s00658365n,s00658365n,craniopagus twins,Yes
+http://babelnet.org/rdf/page/s00659242n,s00659242n,Dermal cylindroma,Yes
+http://babelnet.org/rdf/page/s00664948n,s00664948n,DRESS syndrome,Yes
+http://babelnet.org/rdf/page/s00665152n,s00665152n,aspirin-induced asthma,Yes
+http://babelnet.org/rdf/page/s00665905n,s00665905n,pulmonary toxicity
+http://babelnet.org/rdf/page/s00668765n,s00668765n,sirenomelia,Yes
+http://babelnet.org/rdf/page/s00670960n,s00670960n,Loin pain hematuria syndrome,Yes
+http://babelnet.org/rdf/page/s00676052n,s00676052n,acropachy,Yes
+http://babelnet.org/rdf/page/s00683259n,s00683259n,complex and mixed tumor,Yes
+http://babelnet.org/rdf/page/s00683287n,s00683287n,Peyronie's disease,Yes
+http://babelnet.org/rdf/page/s00683302n,s00683302n,nervous system neoplasm,Yes
+http://babelnet.org/rdf/page/s00683452n,s00683452n,cementoma,Yes
+http://babelnet.org/rdf/page/s00688204n,s00688204n,obturator hernia
+http://babelnet.org/rdf/page/s00702454n,s00702454n,systemic inflammation,Yes
+http://babelnet.org/rdf/page/s00703830n,s00703830n,Chronic phase chronic myelogenous leukemia,Yes
+http://babelnet.org/rdf/page/s00704781n,s00704781n,Follicular large-cell lymphoma,Yes
+http://babelnet.org/rdf/page/s00706574n,s00706574n,"Atelosteogenesis, type II"
+http://babelnet.org/rdf/page/s00709213n,s00709213n,strongyloidiasis,Yes
+http://babelnet.org/rdf/page/s00711738n,s00711738n,ischemic hepatitis,Yes
+http://babelnet.org/rdf/page/s00713844n,s00713844n,avascular necrosis,Yes
+http://babelnet.org/rdf/page/s00715252n,s00715252n,intrauterine growth restriction,Yes
+http://babelnet.org/rdf/page/s00717843n,s00717843n,epithelioid sarcoma,Yes
+http://babelnet.org/rdf/page/s00718377n,s00718377n,Moyamoya disease,Yes
+http://babelnet.org/rdf/page/s00732487n,s00732487n,febrile seizure,Yes
+http://babelnet.org/rdf/page/s00733267n,s00733267n,Jervell-Lange Nielsen syndrome,Yes
+http://babelnet.org/rdf/page/s00734360n,s00734360n,malignant triton tumor,Yes
+http://babelnet.org/rdf/page/s00742664n,s00742664n,diabetic nephropathy,Yes
+http://babelnet.org/rdf/page/s00745330n,s00745330n,Schinzel–Giedion syndrome,Yes
+http://babelnet.org/rdf/page/s00748899n,s00748899n,undervirilization,Yes
+http://babelnet.org/rdf/page/s00751020n,s00751020n,small-blue-round-cell tumor,Yes
+http://babelnet.org/rdf/page/s00755097n,s00755097n,rheumatoid nodule,Yes
+http://babelnet.org/rdf/page/s00763201n,s00763201n,injury of axillary nerve,Yes
+http://babelnet.org/rdf/page/s00765312n,s00765312n,Abderhalden–Kaufmann–Lignac syndrome,Yes
+http://babelnet.org/rdf/page/s00773222n,s00773222n,dermatochalasis,Yes
+http://babelnet.org/rdf/page/s00779518n,s00779518n,long-chain 3-hydroxyacyl-coenzyme A dehydrogenase deficiency,Yes
+http://babelnet.org/rdf/page/s00782632n,s00782632n,progressive inflammatory neuropathy,Yes
+http://babelnet.org/rdf/page/s00793822n,s00793822n,Frank–ter Haar syndrome,Yes
+http://babelnet.org/rdf/page/s00811286n,s00811286n,Minor's disease,Yes

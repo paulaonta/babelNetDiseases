@@ -38,9 +38,6 @@ def also_known_diseases(name):
                     contains = True
                     break
             else:
-                print("sartu")
-                print(name)
-                if name == "Atelosteogenesis, type II"
                 for n in names:
                     if n.replace(" ", "") in also_known_diseases:
                         contains = True

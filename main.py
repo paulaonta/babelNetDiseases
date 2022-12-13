@@ -26,8 +26,6 @@ def contains_disease(link):
 
     return contains
 
-i, errorCount = 0, 0
-
 directory = "./results"
 createDirectory(directory)
 
@@ -43,7 +41,7 @@ writer.writerow(['Link', 'Name'])
 partial_link = 'http://babelnet.org/rdf/values/skos:narrower/'
 codes = ['s00027546n']
 i = 0
-while i <= len(codes):
+while i < len(codes):
     try:
         # open the link
         link = partial_link + codes[i]
@@ -66,7 +64,6 @@ while i <= len(codes):
                         codes.append(name)
                     row = [link, name]
                     writer.writerow(row)
-        i += 1
     except:
         errorCount += 1
         if errorCount == 5:
