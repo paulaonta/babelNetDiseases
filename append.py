@@ -1,6 +1,7 @@
 import os, csv
 from urllib.request import urlopen
 import bs4
+import babelnet as bn
 i, errorCount = 0, 0
 
 mydirname = "./results/babelNet_diseases.csv"
@@ -27,12 +28,13 @@ for line in mycsv:
                 link = partial_link + text[1:] + partial_link2
                 soup = bs4.BeautifulSoup(urlopen(link), features="lxml")
                 # find tags by CSS class
+                print(soup.find("span", class_="synonim"))
                 if soup.find("span", class_="synonim") != None:
                     content = soup.find("span", class_="synonim")
                     #print(soup.find_all("div", class_="alert alert-danger")[0].text)
                     name = content.text
                     errorCount = 0
-                    print("sa")
+
                     #span = soup.find_all_next("span", class_="synonim")
                     #print(span)
                     #name = span[0].text
