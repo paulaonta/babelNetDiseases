@@ -1,0 +1,3113 @@
+
+name,code
+ablepharia,s00000337n
+acanthosis nigricans,s00000602n
+auditory aphasia,s00000970n
+herpes simplex encephalitis,s00001214n
+Addison's disease,s00001292n
+air embolism,s00001680n
+amebic dysentery,s00003311n
+animal disease,s00004226n
+cardiac arrhythmia,s00005883n
+conduction aphasia,s00006551n
+motor aphasia,s00006706n
+ateleiosis,s00006710n
+tinea pedis,s00006748n
+atypical pneumonia,s00007074n
+autoimmune disease,s00007349n
+birth defect,s00010673n
+hairy tongue,s00010995n
+epidemic pleurodynia,s00012249n
+Marseilles fever,s00012453n
+cerebral edema,s00012695n
+brain tumor,s00012702n
+breast cancer,s00012953n
+cardiogenic shock,s00015975n
+cat scratch disease,s00016626n
+catastrophic illness,s00016690n
+cauliflower ear,s00016842n
+cerebral hemorrhage,s00017334n
+Charcot-Marie-Tooth disease,s00017784n
+chronic obstructive pulmonary disease,s00018907n
+elephantiasis scroti,s00019040n
+histamine headache,s00020075n
+communicable disease,s00021219n
+conductive hearing loss,s00021677n
+genetic disease,s00021810n
+Siamese twin,s00021872n
+contagious disease,s00022126n
+coronary occlusion,s00022798n
+Cushing's disease,s00024562n
+Cushing's syndrome,s00024563n
+fibrocystic breast disease,s00024883n
+deficiency disease,s00025915n
+delirium tremens,s00026058n
+disease of the neuromuscular junction,s00027547n
+skin disease,s00027548n
+distal muscular dystrophy,s00027746n
+mental disorder,s00027818n
+Hurler's syndrome,s00029323n
+embryonal rhabdomyosarcoma,s00030511n
+erythema nodosum,s00031510n
+exanthema subitum,s00032104n
+eye disease,s00032529n
+flea bite,s00035153n
+musca volitans,s00035268n
+Wernicke's aphasia,s00035422n
+focal seizure,s00035559n
+food poisoning,s00035664n
+frontal sinus,s00036651n
+functional disorder,s00036830n
+infectious mononucleosis,s00040595n
+habitual abortion,s00042412n
+Hand-Schuller-Christian disease,s00042773n
+heat exhaustion,s00043426n
+herniated disc,s00043849n
+herpes simplex,s00043874n
+high blood pressure,s00044056n
+idiopathic disease,s00045843n
+thrombocytopenic purpura,s00045844n
+occupational disease,s00046564n
+infectious disease,s00046630n
+inferiority complex,s00046653n
+inflammatory disease,s00046673n
+inguinal hernia,s00046756n
+pneumocytosis,s00047225n
+irritable bowel syndrome,s00047565n
+jet lag,s00048170n
+Kawasaki disease,s00048856n
+keratosis pilaris,s00048952n
+lactose intolerance,s00049637n
+tennis elbow,s00050136n
+liver disease,s00051627n
+Lyme disease,s00052428n
+macular degeneration,s00052626n
+Meniere's disease,s00054331n
+mercury poisoning,s00054432n
+metabolic disorder,s00054538n
+microcytic anemia,s00054743n
+sweating sickness,s00054942n
+milk sickness,s00055011n
+spontaneous abortion,s00055276n
+Montezuma's revenge,s00055791n
+myeloblastic leukemia,s00056591n
+nephrogenic diabetes insipidus,s00057295n
+nervous disorder,s00057339n
+neurogenic bladder,s00057411n
+opportunistic infection,s00059189n
+organic brain syndrome,s00059473n
+sandfly fever,s00060510n
+paralysis agitans,s00060578n
+paranoid schizophrenia,s00060599n
+periarteritis nodosa,s00061578n
+periodontal disease,s00061618n
+pigeon toes,s00062352n
+pycnosis,s00065387n
+17β-Hydroxysteroid_dehydrogenase_III_deficiency,s00152952n
+caséum,s00300430n
+Déficit_en_3-hydroxyacyl-coenzyme_A_déshydrogénase_des_acides_gras_à_chaîne_longue,s00779518n
+Bardet–Biedl_syndrome,s00967717n
+Subvalvular_aortic_stenosis_(non-human),s01153386n
+Brown–Vialetto–Van_Laere_syndrome,s01202784n
+Mixed_anxiety–depressive_disorder,s01315454n
+Crimean–Congo_hemorrhagic_fever,s01660311n
+Reis–Bucklers_corneal_dystrophy,s01660584n
+Potocki–Lupski_syndrome,s01747696n
+Bart–Pumphrey_syndrome,s01912407n
+Hughes–Stovin_syndrome,s01932713n
+Floating–Harbor_syndrome,s02812013n
+Encéphalomyélite_allergique_expérimentale,s02956092n
+5α-Reductase_deficiency,s02972783n
+Beare–Stevenson_cutis_gyrata_syndrome,s03061690n
+Syndrome_du_mâle_XX,s03088571n
+Jarisch–Herxheimer_reaction,s03154002n
+Maladie_systémique,s03327534n
+Short_rib_–_polydactyly_syndrome,s03410941n
+Congenital_adrenal_hyperplasia_due_to_3β-hydroxysteroid_dehydrogenase_deficiency,s03581295n
+Maladie_réputée_contagieuse,s04693628n
+Maladie_spontanément_résolutive,s04750141n
+Myopathie_à_corps_d'inclusion,s04848251n
+Épidémie_à_norovirus,s04863981n
+Maladie_évitable,s04897676n
+Érythermalgie,s05016512n
+Toxoplasmosis_congénita,s08345505n
+Vasculite_da_ipersensibilità,s08906945n
+Vescicola_(medicina),s09004398n
+Upshaw–Schulman_syndrome,s14088476n
+Cenani–Lenz_syndactylism,s14474915n
+Fazio–Londe_disease,s14483383n
+Interleukin-1_receptor–associated_kinase_4_deficiency,s15203356n
+Maladie_de_Charcot-Marie-Tooth_intermédiaire_DI-CMT,s15705948n
+Diabète_(syndrome),s16402022n
+Syndrome_progéroïde_néonatal,s16423050n
+Donnai–Barrow_syndrome,s16558594n
+Nance–Horan_syndrome,s16633600n
+Baller–Gerold_syndrome,s16842932n
+Cecità_da_neve,s16912762n
+Bohring–Opitz_syndrome,s16933498n
+Amnésie_bi-temporale,s17156070n
+abasia_trepidans,s00000220n
+atactic_abasia,s00006695n
+choreic_abasia,s00018758n
+paralytic_abasia,s00060580n
+paroxysmal_trepidant_abasia,s00060731n
+spastic_abasia,s00073153n
+Síndrome_de_Miescher,s08466382n
+canine_chorea,s00015261n
+costiasis,s00023021n
+fistulous_withers,s00034890n
+Penile_agenesis_and_testicular_agenesis,s00658417n
+Anticuerpos_antifosfolípidos,s01709508n
+Sindrome_di_Sjögren,s03430636n
+cryptorchidy,s00024204n
+Klippel–Feil_syndrome,s01245626n
+Silver–Russell_syndrome,s01922711n
+Young–Simpson_syndrome,s14947033n
+Cyclocéphaliens,s15302064n
+Bastón_blanco,s03078407n
+Cecità_isterica,s08959200n
+Baja_visión,s16605168n
+Neurinoma_del_acústico,s00120273n
+Tumeur_cérébrale_primitive,s04739263n
+hairline_fracture,s00015494n
+impacted_fracture,s00046068n
+Fractura_de_fémur,s00947125n
+Fractura_de_cráneo,s01947815n
+Holstein–Lewis_fracture,s15214152n
+acquired_hemochromatosis,s00000995n
+Maladie_de_longue_durée,s04733920n
+nevoid_elephantiasis,s00057461n
+Mirhosseini–Holmes–Walton_syndrome,s00538029n
+Malformación_uterina,s00853759n
+Saethre–Chotzen_syndrome,s01525117n
+Ulnar–mammary_syndrome,s01768292n
+Pitt–Hopkins_syndrome,s01881431n
+Mohr–Tranebjærg_syndrome,s01950612n
+Rosenthal–Kloepfer_syndrome,s01979585n
+Kufor–Rakeb_syndrome,s02343695n
+Goldberg–Shprintzen_syndrome,s02692116n
+Melkersson–Rosenthal_syndrome,s03084054n
+Hailey–Hailey_disease,s03328582n
+Mowat–Wilson_syndrome,s03401018n
+Surdité_d'origine_génétique,s04758764n
+Maladie_multigénique,s04935545n
+дивертикул_мочевого_пузыря,s06095140n
+Abdallat–Davis–Farrage_syndrome,s14399069n
+Différences_entre_les_sexes_en_médecine,s16554843n
+Ilona_and_Judit_Gófitz,s01509861n
+Rosa_et_Josepha_Blažek,s04876186n
+Contagion_émotionnelle,s02213187n
+Kyste_du_tractus_thyréoglosse,s03617782n
+metroptosis,s00026496n
+red-green_dichromacy,s00066639n
+yellow-blue_dichromacy,s00081867n
+keratonosis,s00048946n
+Saint_Anthony's_fire,s00068858n
+Rothmund–Thomson_syndrome,s00488870n
+Mélanose_pustuleuse_néonatale_transitoire,s01392567n
+Mitomanía,s14553258n
+Killian–Jamieson_diverticulum,s02170678n
+Enanismo_psicogénico,s03418029n
+Nanisme_(médecine),s17100113n
+keratonosus,s00048947n
+Pathologies_oculaires_par_mutation_du_gène_SOX2,s04999573n
+métaplasie_osseuse_du_corps_ciliaire,s05194202n
+colpocele,s00020786n
+keratocele,s00048937n
+Achard–Thiers_syndrome,s00767668n
+adenomegaly,s00001341n
+dactylomegaly,s00024982n
+Hipoxia_hipobárica,s08446162n
+raptus_hemorrhagicus,s00066195n
+Purpura_thrombopénique_immunologique,s04794761n
+Brûlure_chimique,s03470444n
+Tétanos_(maladie_professionnelle),s04717240n
+Toluène_(maladie_professionnelle),s04717294n
+Manganèse_(maladie_professionnelle),s04718168n
+Phénylhydrazine_(maladie_professionnelle),s04718326n
+Poliomyélite_(maladie_professionnelle),s04719300n
+Distonías_ocupacionales,s08259004n
+Lesiones_en_los_músicos,s16054552n
+Accident_de_plongée,s16648061n
+ratbite_fever,s00066232n
+Brill–Zinsser_disease,s03158341n
+Fiebre_hemorrágica_con_síndrome_renal,s14745638n
+Rhinotrachéite_infectieuse_bovine,s16335658n
+colpocystitis,s00020787n
+iridokeratitis,s00047462n
+keratoiritis,s00048943n
+keratoscleritis,s00048948n
+tarsitis,s00076162n
+vasovesiculitis,s00079637n
+Inflammation_aiguë,s13981050n
+Absceso_hepático,s00172092n
+Epatotossicità,s03229187n
+lysine_intolerance,s00052489n
+Trastorno_hidroelectrolítico,s03797112n
+Nodule_de_sœur_Mary_Joseph,s02522270n
+Nicolau–Balus_syndrome,s02129353n
+Fausse_couche_spontanée,s04711455n
+Mixoma_odontológico,s03616463n
+celioma,s00017024n
+atopognosia,s00006948n
+Axonopatías,s17972307n
+Neuronopatía,s17995428n
+Spanioménorrhée,s04803183n
+Hématome_sous-unguéal,s02760328n
+Autoinfección,s08317874n
+cystoplegia,s00024888n
+Parálisis_de_la_abeja,s14665849n
+ulatrophia,s00078878n
+Papillon–Lefèvre_syndrome,s03438011n
+crown_wart,s00024096n
+heartrot,s00043410n
+rhizoctinia_disease,s00067637n
+sweet-potato_ring_rot,s00075553n
+Proctitis_postradiación,s02741855n
+Dépression_respiratoire,s04828237n
+Síndrome_de_Young,s00341865n
+dhobi_itch,s00026780n
+sapremia,s00069234n
+Sepsis_sévère,s16040330n
+cornsmut,s00022709n
+flag_smut_fungus,s00034973n
+head_smut,s00043298n
+onion_smut,s00059016n
+enterostenosis,s00031003n
+rhinostenosis,s00067632n
+ureterostenosis,s00079324n
+Hallermann–Streiff_syndrome,s00127681n
+Coffin–Siris_syndrome,s00531870n
+Senior–Løken_syndrome,s00538044n
+Rubinstein–Taybi_syndrome,s00707867n
+Langer–Giedion_syndrome,s01227149n
+Marinesco–Sjögren_syndrome,s01457999n
+Johanson–Blizzard_syndrome,s01557519n
+Cerebral_dysgenesis–neuropathy–ichthyosis–keratoderma_syndrome,s01913113n
+Adams–Oliver_syndrome,s03067207n
+Lown–Ganong–Levine_syndrome,s03084527n
+Bannayan–Riley–Ruvalcaba_syndrome,s03130828n
+Simpson–Golabi–Behmel_syndrome,s03153481n
+Pallister–Hall_syndrome,s03273002n
+Laurence–Moon_syndrome,s03308013n
+Denys–Drash_syndrome,s03415071n
+Sindrome_di_Sjögren-Larsson,s03437326n
+Muckle–Wells_syndrome,s03466301n
+Loeys–Dietz_syndrome,s03480307n
+Aarskog–Scott_syndrome,s03675133n
+Miller–Dieker_syndrome,s03782421n
+Qazi–Markouizos_syndrome,s13929287n
+Klippel–Trénaunay_syndrome,s14792046n
+Kleine–Levin_syndrome,s14950980n
+Schwartz–Jampel_syndrome,s15080678n
+Acro–dermato–ungual–lacrimal–tooth_syndrome,s17331362n
+Bowen–Conradi_syndrome,s17500626n
+Health-related_incidents_at_the_United_States_Embassy_in_Havana,s21100374n
+juvenile_wart,s00048689n
+Polyménorrhée,s04774232n
+Gluten-sensitive_enteropathy–associated_conditions,s14829441n
+Trastornos_neurológicos_relacionados_con_el_gluten,s21184756n
+May–White_syndrome,s02901898n
+Glomeruloesclerosis_diabética,s08482808n
+Retinopatía_por_fototoxicidad,s08333135n
+Polype_festonné,s13978244n
+Perturbation_cognitive_post-chimiothérapie,s03724393n
+Enfermedad_pulmonar_inducida_por_fármacos,s08346260n
+Neumopatía_aguda_postraumática,s08476669n
+Mixed_Müllerian_tumor,s03607506n
+Hypotrophie_fœtale,s04731687n
+Liquenificación,s17361822n
+Hémorragie_rétinienne,s00789478n
+Arteria_umbilical_única,s01947530n
+Discromía,s01530030n
+Schizochroïsme,s04920890n
+Hémorragie_de_Benckiser,s04711548n
+Allan–Herndon–Dudley_syndrome,s00247687n
+Coffin–Lowry_syndrome,s00707537n
+Andersen–Tawil_syndrome,s00779594n
+Birt–Hogg–Dubé_syndrome,s00874819n
+Antley–Bixler_syndrome,s00912533n
+Gerstmann–Sträussler–Scheinker_syndrome,s01011292n
+Rapp–Hodgkin_syndrome,s01435789n
+Encefalopatía_espongiforme_transmisible,s01667412n
+Machado–Joseph_disease,s01673663n
+Déficit_en_acyl-coenzyme_A_déshydrogénase_des_acides_gras_à_chaîne_très_longue,s01924752n
+Bamforth–Lazarus_syndrome,s01980438n
+Dubin–Johnson_syndrome,s02221010n
+Cartilage–hair_hypoplasia,s02426292n
+Maladie_de_surcharge_en_esters_de_cholestérol,s02622750n
+Hermansky–Pudlak_syndrome,s02810543n
+Déficit_en_acyl-coenzyme_A_déshydrogénase_des_acides_gras_à_chaîne_courte,s03112914n
+Hajdu–Cheney_syndrome,s03203220n
+Holt–Oram_syndrome,s03341862n
+Déficit_en_acyl-coenzyme_A_déshydrogénase_des_acides_gras_à_chaîne_moyenne,s03354141n
+Budd–Chiari_syndrome,s03405605n
+Hay–Wells_syndrome,s03797468n
+Camurati–Engelmann_disease,s16084700n
+Thiel–Behnke_dystrophy,s16371368n
+Börjeson-Forssman-Lehmann_syndrome,s16473955n
+Bernard–Soulier_syndrome,s03061691n
+Statis_papillomatosis,s14572037n
+festination,s00034149n
+Fauchage_(médecine),s15923999n
+Gougerot–Blum_syndrome,s01528784n
+Demencia_semántica,s01532157n
+Fièvre_et_grossesse,s04711530n
+Menace_d'accouchement_prématuré,s04712045n
+Symptoms_and_discomforts_of_pregnancy,s15720062n
+Brooke–Fordyce_syndrome,s03059880n
+Diabète_et_troubles_du_comportement_(modèle_animal),s17838898n
+Obsesión_(sentimiento),s15283178n
+Kearns–Sayre_syndrome,s02376417n
+Histiocytofibrome_malin,s03408622n
+Hürthle_cell_adenoma,s14214477n
+Leucoencefalopatía_tóxica,s03755219n
+Gouverneur’s_syndrome,s16482536n
+Enfermedad_de_Paget-Schrötter,s02350816n
+Weissenbacher–Zweymüller_syndrome,s03137275n
+Insuffisance_antéhypophysaire_par_mutation_du_gène_PROP1,s04878574n
+Hypersédation,s17827866n
+Síndrome_de_Silvestrini-Corda,s17008717n
+Maladies_héréditaires_du_collagène,s04849875n
+Cavernome_cérébral_héréditaire,s04867889n
+Enfermedades_de_Declaración_Obligatoria,s03526961n
+Enfermedad_por_depósito_lisosomal,s03397023n
+Éveil_confusionnel,s04740313n
+Déglutition_atypique,s04891456n
+alcoholic_dementia,s00002524n
+Síndrome_de_Tolosa-Hunt,s03768758n
+Hagemoser–Weinstein–Bresnick_syndrome,s13895251n
+Henoch–Schönlein_purpura,s03675946n
+ring_rot_bacteria,s00064986n
+Cloque_du_pêcher,s01415339n
+Rouille_jaune_du_blé,s01686251n
+Piétin-verse,s03511203n
+Enfermedad_de_Panamá,s03644511n
+Pourriture_du_cœur,s04709450n
+Épiphytie,s05889594n
+Enfermedad_criptogámica,s14911663n
+Dead_arm_of_grapevine,s15713705n
+Oïdium_du_pommier,s17234208n
+Maladie_sud-américaine_des_feuilles_de_l'hévéa,s17838517n
+Dépérissement_du_kauri,s21567476n
+Lésion_urothéliale_papillaire,s14073373n
+Rosselli–Gulienetti_syndrome,s16827685n
+Tillaux-Chaput_avulsion_fracture,s15546800n
+Anomalies_acquises_de_l'intestin_grêle,s04870138n
+Déformation_positionnelle,s15436537n
+Hépatopancréatite_nécrosante,s01479843n
+Fièvre_de_lait,s03828342n
+Santé_des_bovins,s04810318n
+Maladie_animale_à_déclaration_obligatoire,s04899647n
+Maladies_des_équidés,s14845472n
+Maladie_de_Carré_des_phoques,s16664303n
+Myonécrose_infectieuse,s17840520n
+Leucémie_des_mollusques,s17870740n
+Phénomène_d'Uhthoff,s02229958n
+Non-mycosis_fungoides_CD30−_cutaneous_large_T-cell_lymphoma,s01606423n
+Sindrome_di_Sézary,s02390827n
+Carence_(biologie_végétale),s14620449n
+Síndrome_HERNS,s18000037n
+Lipschütz_ulcer,s01878799n
+Hémoglobine_Hb_J-baltimore,s04874892n
+Schizophrénie_torpide,s14893955n
+Emphysème_sous-cutané,s00969762n
+Intoxicación_por_fósforo,s08260061n
+tetraspastick,s14749962n
+Traitement_de_la_calvitie_androgénétique_chez_la_femme,s04732781n
+Síndrome_de_Wünderlich,s00667052n
+Pathologies_rénales_par_mutation_du_gène_UMOD,s04714708n
+Traumatismo_de_riñón,s08314116n
+Enfermedades_hereditarias_o_congénitas_de_los_riñones,s08369306n
+Nefritis_por_Henoch_Schönlein,s16123368n
+Charcot–Bouchard_aneurysm,s15970113n
+quarter_crack,s00065590n
+blood_spavin,s00011390n
+Romano–Ward_syndrome,s13932309n
+Altération_de_l'état_général,s04702435n
+Cachexie_cancéreuse,s05353140n
+Síndrome_de_desgaste,s08286342n
+Formas_frontera_de_la_esclerosis_múltiple,s16915401n
+Vitiligo_ponctué,s01871483n
+Fibrosis_mediastínica,s03407146n
+Red–green_color_blindness,s05589383n
+Dextraposición_de_la_aorta,s02775708n
+Tératologie_végétale,s04794190n
+Dennie–Marfan_syndrome,s01516497n
+Ho–Kaufman–Mcalister_syndrome,s03426103n
+Cyclocéphalie,s16541359n
+Anomalies_de_développement_du_cortex_cérébral,s05019534n
+Fractura_de_peroné,s05252864n
+Fracture_du_scaphoïde,s03842628n
+Lesión_de_Lisfranc,s01611580n
+Chopart's_fracture–dislocation,s01783557n
+Cancer_bronchique_non_à_petites_cellules,s03421664n
+Diabesità,s09004177n
+lysinemia,s00052490n
+car_sickness,s00015800n
+Lait_de_sorcière,s16089854n
+Adams–Nance_syndrome,s14429151n
+Maladies_vectorielles_à_tiques,s00234077n
+Transmisión_vertical,s14466404n
+Fecal–oral_route,s15031159n
+maladies_vénérienne,s05874496n
+Enfermedad_psicogénica_de_masas,s00638891n
+Peste_d'Athènes,s01106387n
+Épidémie_de_typhus_à_Nantes,s04827348n
+Épidémie_de_rougeole_en_France_en_2008,s14365978n
+2009–10_West_African_meningitis_outbreak,s14960616n
+Quảng_Ngãi_skin_disease_outbreak,s15329052n
+1629–31_Italian_plague,s15984632n
+Epidemia_de_ébola_de_2014-2016,s16905443n
+Shimla_jaundice_outbreak_(December_2015_–_Present),s17687840n
+Higiene_del_sueño,s00442574n
+Ricketsiosis,s08352233n
+Famines_en_Éthiopie,s01022347n
+Famine_en_Inde_de_1899–1900,s01161159n
+Famine_soviétique_de_1946-1947,s01781419n
+Grande_Famine_(Grèce),s02664203n
+Famine_en_Corée_du_Nord,s03266398n
+Upper_Doab_famine_of_1860–61,s14887802n
+Deccan_famine_of_1630–32,s14912484n
+Kazakhstan_famine_of_1932–1933,s15068343n
+Chinese_famine_of_1942–43,s15215608n
+1983–1985_famine_in_Ethiopia,s15268054n
+2005–06_Niger_food_crisis,s15310450n
+Chinese_famine_of_1928–30,s15549221n
+Northern_Chinese_Famine_of_1876–79,s15585942n
+Great_Famine_of_Estonia_(1695–97),s15795310n
+Agra_famine_of_1837–38,s15797506n
+1921–22_famine_in_Tatarstan,s15826732n
+Indian_famine_of_1896–97,s16107624n
+Great_Famine_of_1695–1697,s16887210n
+Bihar_famine_of_1873–74,s16940234n
+Famine_en_Inde_de_1876_à_1878,s17025042n
+Kazakh_famine_of_1919–1922,s17742623n
+Persian_famine_of_1917–1919,s21111468n
+Famine_in_Yemen_(2016–present),s21300668n
+Malnutrition–inflammation_complex,s01121558n
+Dénutrition,s04897064n
+Desnutrición_infantil,s08405378n
+Desnutrición,s17321252n
+Dénutrition,s04897064n
+bubble_gum_dermatitis,s00013546n
+Acné_excoriée,s15390974n
+brow_ptosis,s00013392n
+tetartanopia,s00076688n
+gumboil,s00042213n
+Cellulite_périnéale,s01947824n
+lichtenoid_eczema,s00018899n
+Sulzberger–Garbe_syndrome,s01949042n
+Eczéma_xérotique,s03301513n
+Exanthème_roséoliforme,s04953596n
+Exanthème_scarlatiniforme,s14583255n
+photalgia,s00062058n
+Epilepsia_fotosensitiva,s03428692n
+Cellulite_à_éosinophiles,s01447134n
+Aspergillose_cutanée,s01542175n
+Ansiedad_ante_extraños,s03583998n
+Névrose_d'angoisse,s04903536n
+glove_anesthesia,s00040737n
+Disturbo_ossessivo-compulsivo_di_personalità,s02274286n
+Névrose_actuelle,s07490115n
+Disturbo_istrionico_di_personalità,s01056473n
+Disturbo_paranoide_di_personalità,s03556161n
+Organizzazione_borderline_di_personalità,s08973567n
+accentuation_de_certains_traits_de_la_personnalité,s11152572n
+Disturbo_narcisistico_di_personalità,s14159106n
+Micro-éveil,s04872596n
+Ethanol_use_and_sleep,s14638545n
+Depression_in_childhood_and_adolescence,s01552529n
+Dysmnésie,s03945013n
+Hypermnésie,s05588621n
+Disregulación_emocional,s03104798n
+Anxiété_de_performance,s03694765n
+Déshydratation_extracellulaire,s04725960n
+Déshydratation_intracellulaire,s04988172n
+1979–83_Eastern_Australian_drought,s13840968n
+1988–89_North_American_drought,s13974700n
+2010–11_China_drought,s16530227n
+2010–13_Southern_United_States_and_Mexico_drought,s16657228n
+1911–16_Australian_drought,s16830761n
+2012–13_North_American_drought,s17399479n
+2014–17_Brazilian_drought,s17463504n
+2011–17_California_drought,s21549111n
+Hiposalivación,s04816489n
+VIH_en_el_niño,s08309762n
+Infección_asintomática_por_VIH,s08333984n
+Glaucoma_de_células_fantasma,s08355190n
+annular_scotoma,s00004372n
+hemianopic_scotoma,s00043655n
+anterior_synechia,s00004520n
+posterior_synechia,s00063786n
+Millard–Gubler_syndrome,s03501088n
+Hypercholestérolémie_de_l'enfant,s04919233n
+Stéatomérie,s04777455n
+anemic_anoxia,s00004028n
+ischemic_anoxia,s00047589n
+Abattage_par_atmosphère_contrôlée,s16530445n
+pure_absence,s00065275n
+subclinical_absence,s00074868n
+Adicción_a_los_videojuegos,s01605110n
+Causticación,s16048880n
+Intoxication_aux_organophosphorés,s00418050n
+Distonía_del_músico,s08432900n
+Abcès_hépatique_amibien,s01387155n
+Syndrome_dysentérique,s05015609n
+Leucoencéfalomalacia_equina,s08387639n
+canicola_fever,s00015255n
+Leptospirose_ictéro-hémorragique,s17073088n
+herpangia,s00043871n
+differences_between_chickenpox_and_smallpox,s16566686n
+Syndrome_émergent,s04799839n
+rheumatic_aortitis,s00067613n
+Bursite_trochantérienne,s03676385n
+acute_glossitis,s00001212n
+chronic_glossitis,s00018902n
+Moeller's_glossitis,s00040722n
+Maladie_post-phlébitique,s03539098n
+Hépatome,s17813940n
+Adénome_toxique,s04840961n
+Kasabach–Merritt_syndrome,s03296436n
+acataphasia,s00000623n
+orthochorea,s00059574n
+Perro_de_asistencia_para_personas_epilépticas,s02731193n
+Mort_subite_et_inexpliquée_en_épilepsie,s03306053n
+acromyotonia,s00001057n
+Neuro-Behçet's_disease,s15525961n
+Linburg–Comstock_variation_and_syndrome,s17654986n
+Dandy–Walker_syndrome,s02710826n
+Raymond_Céstan_syndrome,s16334061n
+Atrophie_corticale_postérieure,s00968616n
+Brown-Séquard_syndrome,s15527926n
+swivet,s00075618n
+Panic_of_1910–11,s16230952n
+Miedo_al_éxito_(psicología),s08281102n
+satanophobia,s00069313n
+pericementoclasia,s00061585n
+alder_blight,s00002541n
+beet_blight,s00009604n
+blister_blight,s00011289n
+blister_blight,s00011290n
+coffee_blight,s00020418n
+rim_blight,s00067865n
+spinach_blight,s00073378n
+stripe_blight,s00074715n
+brown_rot_gummosis,s00013417n
+green_smut,s00032865n
+flag_smut,s00034972n
+verticilliosis,s00079844n
+Granulomatous–lymphocytic_interstitial_lung_disease,s17751531n
+boil_smut,s00011825n
+wheat_flag_smut,s00079351n
+Autisme_à_haut_niveau_de_fonctionnement,s01126840n
+Comorbidités_des_troubles_du_spectre_de_l'autisme,s03870868n
+Villaret’s_syndrome,s16037415n
+Rétrécisseur_de_sexe,s04773571n
+Trou_réa,s14956320n
+Brote_psicótico,s03769846n
+Galli–Galli_disease,s01392545n
+talipes_equinus,s00075963n
+Hyperthyroïdie_féline,s14635991n
+Élongation_musculaire,s04919573n
+Hipotonía,s15863735n
+polysubstance dependence,s01148025n
+barbiturate dependence,s02054088n
+delusions of persecution,s00026099n
+nihilistic delusion,s00057711n
+somatic delusion,s00072779n
+monothematic delusion,s02507320n
+religious delusion,s02800150n
+paranoid delusion,s04720969n
+messianic delusion,s08452509n
+delusional thinking,s17907791n
+strawman theory,s22132291n
+delusion of control,s26576250n
+Bell's mania,s27825167n
+MELAS syndrome,s03077289n
+familial amyloid cardiomyopathy,s02761591n
+big spender,s00010323n
+Gear Acquisition Syndrome,s21753998n
+arterial pulmonary hypertension,s10476507n
+leadpipe rigidity,s07878314n
+Tumor angiogenesis,s18499501n
+Serpentine fibula-polycystic kidney syndrome,s01285233n
+degenerative disorder,s00025963n
+subcutaneous abscess,s16451768n
+subcutaneous abscess,s16451768n
+Organ-limited amyloidosis,s01017944n
+AA amyloidosis,s01017977n
+Haemodialysis-associated amyloidosis,s01018009n
+Secondary cutaneous amyloidosis,s01611154n
+Heredofamilial amyloidosis,s01611160n
+cerebral amyloid angiopathy,s01699837n
+cardiac amyloidosis,s17386428n
+LECT2 amyloidosis,s17476990n
+visual aphasia,s00002636n
+auditory agnosia,s00007125n
+visual agnosia,s00080125n
+integrative agnosia,s00791481n
+pain agnosia,s00820311n
+apperceptive agnosia,s00969990n
+associative agnosia,s01490531n
+finger agnosia,s02769843n
+dyslogia,s00029319n
+vocal cord dysfunction,s01061152n
+infantile speech,s01445586n
+pressure of speech,s02364678n
+motor speech disorder,s02399360n
+involuntary speech,s04675396n
+speech disability,s05130152n
+cognitive dysphasia.,s05321331n
+developmental speech disorder,s06294176n
+Sakati-Nyhan syndrome,s03744306n
+Gueules cassées,s15299928n
+neuro-cardio-facial-cutaneous syndromes,s01436390n
+jaw abnormality,s01496619n
+skull bossing,s02808767n
+Fryns-Aftimos syndrome,s21548177n
+Tripod fracture,s00525022n
+Face distortion,s01971406n
+midface fracture,s05338716n
+Pemphigoid nodularis,s01997956n
+false memories in autobiographical writings,s22384943n
+familial dysautonomia,s00354236n
+equine viral arteritis,s00158653n
+dangerous illness,s08582254n
+serous glue ear,s14316918n
+adhesive otitis media,s23506996n
+Inflammatory linear verrucous epidermal nevus,s01462570n
+Systematized epidermal nevus,s01610471n
+Nevus unius lateris,s01610476n
+Derzsy's disease,s02696735n
+phosphofructokinase deficiency,s00136730n
+glycogen storage disease type IX,s15604995n
+Erythrocyanosis crurum,s01530219n
+low birth weight,s01241714n
+Constitutional growth delay,s01342324n
+stunted growth,s02841192n
+antrochoanal polyp,s06251013n
+vertical root fracture,s01873591n
+Enamel infraction,s01886148n
+trifascicular block,s03515212n
+tachycardia-dependent bundle branch block,s16139701n
+left anterior fascicular block,s00489223n
+left posterior fascicular block,s00489224n
+atonic dyspepsia,s04780297n
+fermentative dyspepsia,s05170571n
+functional dyspepsia,s06610210n
+Wernicke–Korsakoff syndrome,s02465141n
+Wernicke–Korsakoff syndrome,s02465141n
+Wernicke–Korsakoff syndrome,s02465141n
+shoshin beriberi,s09677127n
+Wolf–Hirschhorn syndrome,s00224339n
+Cri-Du-Chat syndrome,s00540834n
+Posterior amorphous corneal dystrophy,s01663588n
+3q29 microdeletion syndrome,s02184266n
+1q21.1 deletion syndrome,s02208122n
+proximal 18q-,s02393903n
+WAGR syndrome,s02543047n
+chromosome 18q deletion syndrome,s02580730n
+chromosome 9p deletion syndrome,s03312036n
+1p36 deletion syndrome,s03484254n
+microdeletion syndrome,s06827740n
+chromosome 6q24-q25 deletion syndrome,s21626322n
+chromosome 2q deletion,s22230235n
+chromosome 6pter-p24 deletion syndrome,s25396631n
+17q12 microdeletion syndrome,s27344088n
+gastric lymphoma,s03174630n
+cardia cancer,s04763142n
+hereditary diffuse gastric cancer,s17040598n
+benign nephrosclerosis,s01457514n
+pilomyxoid astrocytoma,s05371980n
+Ghon's complex,s03172512n
+conjugate gaze palsy,s00244110n
+monofixation syndrome,s01987455n
+Pattern Strabismus,s05251570n
+congenital strabismus,s05305020n
+associated phoria,s05584691n
+incomitant strabismus,s17123973n
+ocular flutter,s03226110n
+acute renal failure,s00001215n
+large granular lymphocytic leukemia,s00206590n
+hairy cell leukemia,s00214354n
+Richter's syndrome,s00353713n
+prolymphocytic leukemia,s00506859n
+invasive group A streptococcus infection,s16257635n
+serpiginous ulcer,s08880106n
+Mooren's ulcer,s08881240n
+bullous keratopathy,s01371587n
+post-LASIK ectasia,s17453413n
+Terrien's marginal degeneration,s17459175n
+nominal aphasia,s00003567n
+global aphasia,s00040678n
+transcortical aphasia,s00077957n
+evolutionary aphasia,s04679264n
+Syntactic aphasia,s18455069n
+Semantic aphasia,s21305868n
+Drug-induced pseudolymphoma,s01396135n
+Balloon cell nevus,s01614337n
+Pigmented hairy epidermal nevus syndrome,s01459654n
+Supernumerary nipples–uropathies–Becker's nevus syndrome,s01938192n
+Patch blue nevus,s09644478n
+blue mold fungus,s00011532n
+onion mildew,s00059013n
+tobacco mildew,s00061677n
+blue mold,s00498524n
+pea downy mildew,s04792895n
+blight canker,s00011239n
+bud rot of palms,s04707507n
+Bark beetle infestation in Europe,s27805961n
+flavescence dorée,s00948871n
+anthracnose of grapevine,s05868632n
+pear leaf spot,s13875988n
+wheat septoria leaf blotch,s16164707n
+wheat rust,s00065117n
+Gymnosporangium sabinae,s00315783n
+common scab,s02834891n
+verticillium wilt,s03701710n
+spot blotch,s03853041n
+armillaria root rot,s04709790n
+nectria canker,s04764272n
+black wood-vessel disease,s04787188n
+Entomosporium leaf spot,s04905491n
+tar spot,s05174974n
+pear leaf spot,s13875988n
+daisy rust,s13876477n
+Antirrhinum rust,s13876487n
+leaf rust on plum,s13887343n
+Cenangium canker,s14081179n
+hnědá_pruhovitost_jehlic_borovice,s14130753n
+Carie_(pathologie_végétale),s14916600n
+Rouille_du_caféier,s17828182n
+Papillome_urothélial,s14613478n
+Rokitansky–Aschoff_sinuses,s15379814n
+Ohrspeicheldruese,s15438352n
+Riga–Fede_disease,s02007873n
+purple_locoweed,s00060017n
+Septicemia_hemorrágica_viral,s03764634n
+Black_spot_disease_(fluke_disease),s17527430n
+Épilepsie_canine,s15751491n
+Carbunco_sintomático,s02938801n
+Défaut_d'adhérence_des_leucocytes_chez_les_bovins,s04817226n
+Insuffisance_rénale_chronique_du_chat,s15379212n
+Coliques_des_équidés,s00683200n
+Arestín_(enfermedad),s17977659n
+Dilatación_del_proventrículo,s17150047n
+Carence_en_fer_(biologie_végétale),s00807278n
+Carence_en_manganèse,s00807476n
+precocious_dentition,s00064097n
+Leukotriene_receptor_antagonist-associated_Churg–Strauss_syndrome,s01418417n
+Manifestatation_postvaccinale_indésirable,s03122659n
+Complications_de_l'anesthésie,s04740376n
+Calcul_intra-hépatique,s03826053n
+Super-goûteur,s00621535n
+sottishness,s00072870n
+Coma_etílico,s04597569n
+Intoxication_au_manganèse,s00820219n
+Crossed_dystopia,s17241257n
+ambulant_plague,s00003297n
+Cecità_corticale,s02259947n
+Fracture_transthalamique_du_calcanéus,s17827544n
+Colección_privada,s03588726n
+Néopathie,s05017788n
+lepidophobia,s00050732n
+1817–24_cholera_pandemic,s00934591n
+1852–60_cholera_pandemic,s00934600n
+1863–75_cholera_pandemic,s00934605n
+1881–96_cholera_pandemic,s00934612n
+1899–1923_cholera_pandemic,s00934617n
+1961–75_cholera_pandemic,s00934622n
+1829–51_cholera_pandemic,s14529968n
+Gripe_asiática,s14610951n
+Coreomanía,s01481616n
+1817–24_cholera_pandemic,s00934591n
+1852–60_cholera_pandemic,s00934600n
+1863–75_cholera_pandemic,s00934605n
+1881–96_cholera_pandemic,s00934612n
+1899–1923_cholera_pandemic,s00934617n
+1961–75_cholera_pandemic,s00934622n
+Epidemias_de_cólera_en_España,s08436531n
+Épidémie_de_choléra_de_1884_à_Marseille,s13984673n
+1829–51_cholera_pandemic,s14529968n
+Catedral_de_Santa_Sofía_de_Kiev,s14990259n
+2014–15_African_cholera_outbreak,s16814673n
+Épidémies_de_choléra_à_Malte,s17836474n
+2016–18_Yemen_cholera_outbreak,s21133005n
+Gripe_asiática,s14610951n
+hairweaving,s00042562n
+Santé_mentale_au_travail,s14687875n
+Ingeniería_sanitaria,s03722245n
+Chūgi,s14898101n
+Esterilización_ultravioleta,s03549766n
+Stérilisation_à_la_vapeur,s04787622n
+Piscine_à_chevaux,s05174778n
+Santé_au_travail,s04695330n
+Santé_mentale_au_travail,s14687875n
+Acné_du_nourrisson,s01337857n
+baker's_eczema,s00008014n
+Exanthème_morbilliforme,s01848677n
+Avversità_della_vite,s08858298n
+Bulle_(lésion),s04690612n
+exogenous_depression,s00032256n
+Depresión_Resistente_al_Tratamiento,s02798553n
+Dépression_brève_récurrente,s00873150n
+Disordine_affettivo_stagionale,s03516378n
+Syndrome_à_phénotype_comportemental,s04854012n
+Héboïdophrénie,s17317241n
+hysterocatalepsy,s00045662n
+Contre-dépendance,s02924282n
+Ciberadicción,s00799697n
+Dépendance_à_la_télévision,s03433273n
+Mobile_phone_overuse,s16037316n
+Psychose_déficitaire,s04840368n
+Stigmatic-eligibilic_paraphilia,s00669528n
+Maïeusophilie,s00868392n
+Asthénéophilie,s04996156n
+Complejo_de_Anfitrión,s08467972n
+Sidérodromophilie,s14045013n
+Zettai_ryōiki,s15638713n
+Stéréotypie_(psychiatrie),s17301562n
+Sequía_en_Chile_de_2010-2011,s08389526n
+Trépidation_épileptoïde_du_pied,s04951220n
+Dépendance_au_jeu_de_rôle_en_ligne_massivement_multijoueur,s17848016n
+Crabe_flèche,s01146937n
+Löffler's_syndrome,s02312227n
+Dépistage_du_cancer_de_la_prostate,s02706696n
+Agent_alkylant_antinéoplasique,s03892113n
+Papillome_urothélial_inversé,s13981225n
+Invasion_périneurale,s01879098n
+Hypermétrie,s04836872n
+Isométrataxie,s15179997n
+Mouvement_choréiforme,s04908707n
+Sindrome_di_Dupré,s08840978n
+Compression_médullaire,s03224188n
+Enfermedades_por_expansión_de_trinucleótidos,s01929565n
+pusillanimity,s00065358n
+automysophobia,s00007386n
+cryophobia,s00024173n
+Síndrome_de_Frankenstein,s14671337n
+Néophobie_alimentaire,s16305214n
+Antiespañolismo,s00350735n
+Délire_d'interprétation_de_Sérieux_et_Capgras,s16877440n
+Bouffée_délirante,s15439688n
+Infarto_de_miocardio_con_elevación_del_segmento_ST,s08367231n
+Miocardiopatía_de_takotsubo,s03645460n
+Micro_déchirure,s04727666n
+CIVD_par_rétention_de_fœtus_mort,s05233871n
+Latérocidence_du_cordon,s04721724n
+Lamaze_method_of_childbirth,s00049757n
+Dystocie_des_épaules,s01235170n
+Présentation_de_l'épaule,s01349222n
+Présentation_transverse,s04721204n
+Présentations_du_front_et_du_bregma,s04721232n
+Levamisole-induced_vasculitis,s03021105n
+Pequeño_para_la_edad_gestacional,s00303673n
+Síndrome_de_Bouveret,s14688224n
+Odontodysplasie_régionale,s03616242n
+Pathologies_pulpaires_et_périapicales_en_endodontie,s14856897n
+Interactions_médicaments-aliments,s04843088n
+Vaccinations_mortelles_de_Lübeck,s17084600n
+Atterrissage_forcé_sans_moteur,s00890704n
+Conflicto_diplomático_entre_Europa_Occidental_y_América_Latina_de_2013,s14346294n
+Bibliothèque_de_Friedrich_Nietzsche,s00255999n
+Fundación_de_San_Lucas_Evangelista,s01323753n
+Am_Römerholz,s02616493n
+François_Pinault,s03771611n
+Colección_Carmen_Thyssen-Bornemisza,s04591001n
+Kashū_(poetry),s08079889n
+Colección_Barbara_Piasecka_Johnson,s08267738n
+Colección_Schøyen,s16280014n
+Transmission_funiculaire_en_médecine,s17846950n
+Affaire_des_infirmières_bulgares,s00154657n
+Grippe_aviaire_en_Indonésie,s05016843n
+Ombré,s15661046n
+Inhibiteur_de_la_protéase_NS3-4A,s17837731n
+Tindalización,s00972333n
+Obesidad_en_México,s00908140n
+papulovesicle,s00060518n
+Aliénation_mentale,s04911936n
+Síndrome_de_Wendy,s08323872n
+Adicción_a_los_carbohidratos,s00655637n
+Dépendance_au_smartphone,s09700299n
+Dépendance_au_smartphone,s09700299n
+paroxetime,s00060730n
+Necrofilia_homosexual_en_el_ánade_real,s14674528n
+Fétichisme_du_robot,s00850797n
+Fétichisme_de_la_chaussure,s01362231n
+Fétichisme_des_lunettes,s01834572n
+Fétichisme_de_la_main,s03648651n
+Culture_Goréenne,s01768712n
+Fétichisme_de_la_main,s03648651n
+Síndrome_del_emperador,s08438162n
+Dyschronométrie,s04836871n
+Foster–Kennedy_syndrome,s01144390n
+Hadronthérapie,s00356143n
+Radiothérapie_vectorisée,s02095323n
+Oncología_radioterápica,s15484523n
+Epstein–Barr_virus-positive_DLBCL_of_the_elderly,s17484147n
+Cascade_ischémique,s02228357n
+Espasmo_mioclónico,s03008140n
+Parálisis_del_nervio_radial,s02923310n
+Parsonage–Turner_syndrome,s14124000n
+poltroonery,s00063397n
+faintheartedness,s00032728n
+Ethnocacérisme,s00562033n
+Marshall–White_syndrome,s01510885n
+Rama_del_nódulo_sinoauricular_de_la_arteria_coronaria_derecha,s03596914n
+Dihidrocodeína,s00126459n
+Α-Methylfentanyl,s00174350n
+Acetildihidrocodeína,s03809237n
+Grapefruit–drug_interactions,s14415890n
+Bactérie_multirésistante,s05023941n
+Bactérie_multirésistante,s05023941n
+Résistance_du_VIH_face_aux_inhibiteurs_de_protéase,s04912586n
+Kinkai_Wakasyū,s15415353n
+Mèche_de_l'enfance,s15741128n
+Chignon_suève,s03871707n
+Antibiótico_de_amplio_espectro,s03339327n
+Aminoglucósido,s03455190n
+Antibiótico_polipéptido,s15024533n
+Antibiotique_bêta-lactamine,s16559208n
+mild_silver_protein,s00005618n
+Bromure_d'éthidium,s02995135n
+Aspartate_aminotransférase,s00181996n
+Demostración_de_la_irracionalidad_de_e,s02840989n
+Canal_caché,s00989591n
+Condición_de_carrera,s03247822n
+Inyección_XPath,s14682122n
+Vulnérabilité_des_services_d'authentification_web,s17820626n
+Vulnérabilité_des_firmwares_et_leurs_contre-mesures,s17823771n
+Ghost_(Vulnérabilité),s17826988n
+Fiebre_del_oro_del_cañón_del_Fraser,s02067706n
+Ruée_vers_l'or_de_l'Oural,s04989999n
+Neumoquistografía,s08305081n
+Galactografía,s15631822n
+Carbonethérapie,s15884846n
+Radioembolización_hepática,s08361686n
+Chimio-hyperthermie_intra-péritonéale,s02435502n
+Alcoolisme_étudiant_en_France,s04916319n
+Coupe_à_la_garçonne,s02922182n
+penicillinase-resistant_antibiotic,s00061368n
+Penicilina_semisintética,s04596127n
+Penicilina_biosintética,s04596128n
+Discovery_and_development_of_non-nucleoside_reverse-transcriptase_inhibitors,s01811042n
+Discovery_and_development_of_non-nucleoside_reverse-transcriptase_inhibitors,s01811042n
+Inhibiteur_de_l'intégrase,s03655841n
+Traitement_antirétroviral_hautement_actif,s04813172n
+Pelagia_de_Antioquía,s01842341n
+Chambre_d’équilibre,s00390453n
+Tunnel_de_dérivation,s17069770n
+Schloss_Großsachsenheim,s16684890n
+Division_(matériel_d'incendie),s04050526n
+Saumoduc_de_Salins-les-Bains_à_Arc-et-Senans,s14534795n
+ablepharia,s00000337n
+ateleiosis,s00006710n
+musca_volitans,s00035268n
+pneumocytosis,s00047225n
+Pena-Shokeir syndrome,s04074848n
+Hoigne syndrome,s04080784n
+associated diseases,s04094961n
+islet-cell adenoma,s04113976n
+Zuelzer-Wilson's syndrome,s04154499n
+anticholinergic toxidrome,s04158544n
+lip cancer,s04251089n
+tongue cancer,s04292379n
+executive burnout,s05059442n
+dermoid cyst of ovary,s05064207n
+ovarian mucinous cystadenocarcinoma,s05068702n
+diffuse uterine leiomyomatosis,s05069141n
+lobar holoprosencephaly,s05075390n
+pituitary hypoplasia,s05077881n
+necrosis of pituitary,s05077885n
+salmonella sepsis,s05079333n
+wedge shaped vertebra,s05132798n
+staphylococcal skin infection,s05156413n
+shock kidney,s05158729n
+enterohaemorrhagic Escherichia coli infection,s05158756n
+diphtheroid infection,s05167272n
+bladder trabeculation,s05168840n
+torus fracture,s05178241n
+growth disorder,s05178565n
+secondary caries,s05181556n
+Infant toxicosis,s05181980n
+mental illness,s05184755n
+hydrops of gallbladder,s05193536n
+alpha chain disease,s05197665n
+tubal pregnancy,s05200232n
+abuse of non-dependence-producing substances,s05200999n
+ovine and caprine brucellosis,s05217450n
+papular stomatitis,s05227894n
+lack of vaginal lubrication,s05229051n
+small intestine cancer,s05235381n
+Multi/minicore myopathy,s05236084n
+renal pelvis carcinoma,s05237610n
+hemorrhage per rhexis,s05242605n
+early-onset disease,s05243617n
+monocytic leukemia,s05244408n
+chiasmal syndrome,s05245011n
+nasociliary neuralgia,s05253451n
+stress-related disorders,s05260129n
+atypical choroid plexus papilloma,s05261689n
+Postictal twilight state,s05263250n
+subacute bacterial endocarditis,s05265241n
+lung nodule,s05275052n
+Partially duplicated ureter,s05277979n
+Cancer phobia,s05288007n
+herpes B,s05288147n
+paraneoplastic pemphigus,s05292600n
+ureter carcinoma,s05301543n
+Achenbach syndrome,s05308017n
+non-odontogenic cyst,s05312197n
+C1q nephropathy,s05316512n
+conjunctival concretion,s05344543n
+adult polyglucosan body disease,s05353400n
+Elsberg syndrome,s05362077n
+pharyngeal phlegmon,s05362977n
+Fractures of human teeth,s05376254n
+acute midbrain syndrome,s05378152n
+Purpura cerebri,s05378299n
+orofacial myofunctional disorders,s05382732n
+Clutton's joints,s05387024n
+post-traumatic arthritis,s05402349n
+opioid withdrawal syndrome,s05404050n
+deep venous insufficiency,s05409427n
+varicose ulcer,s05414669n
+alcohol withdrawal seizure,s05425540n
+ideomotor apraxia,s05426353n
+focal lung pneumatosis,s05442162n
+bipartite patella,s05443538n
+posterior tibial tendon dysfunction,s05463077n
+parainfectious disease,s05467120n
+sacroiliac joint dysfunction,s05477428n
+heart block,s05518885n
+sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome,s05527737n
+sperm granuloma,s05567384n
+surgical stress,s05579137n
+functional gastric disease,s05583487n
+Low Latent Inhibition,s05731326n
+Newcastle disease,s05760087n
+disease affecting Cowslip,s05764824n
+acute poststreptococcal glomerulonephritis,s05860815n
+chronic rhinitis,s05863333n
+woody phlegmon,s05876080n
+vitamin K deficiency,s05898230n
+thiamine deficiency,s05898233n
+1-alpha-hydroxylase deficiency,s05898372n
+radiation sickness,s05901847n
+central nervous system neoplasm,s05902394n
+atactic thinking,s05905209n
+Helicobacter pylori infectious disease,s05945019n
+Transitory impairment of cerebral circulation,s05955660n
+leech infestation,s05957972n
+Taeniasis saginata,s05958056n
+emotionally unstable personality disorder,s05966701n
+pseudophilosophical thinking,s05967024n
+cold injury,s05986451n
+infestation by Ornithonyssus,s05999592n
+Dermatophagoides allergy,s06002198n
+chromosomal disease,s06007118n
+mycobacterium infectious disease,s06007761n
+brain compression,s06009688n
+Mitochondrial diabetes,s06017372n
+Pulmonary hamartoma,s06019647n
+Simmonds' cachexia,s06036256n
+neonatal vesiculopustulosis,s06037316n
+micropapillomatosis labialis,s06043930n
+muttering delirium,s06044174n
+gastrointestinal myiasis,s06046261n
+dermal myiasis,s06046352n
+Brugia malayi filariasis,s06046866n
+Chrysomya myiasis,s06047248n
+syncitial endometritis,s06053750n
+Tumor of the stomach,s06058841n
+Chronic thyroiditis,s06060477n
+Pseudamphistomum truncatum infection,s06071937n
+Moniliformis infection,s06071947n
+Rhabditida infectious disease,s06072651n
+disease caused by Phora fly,s06072939n
+Penile myiasis,s06073861n
+Disease due to Armillifer,s06075814n
+tongue neoplasm,s06090587n
+keratitis related to vitamin deficiency,s06097362n
+Gasping syndrome,s06107128n
+acute paraproctitis,s06117533n
+spinal osteochondrosis,s06167352n
+delusional dysmorphophobia,s06174400n
+syndromic microphthalmia 3,s06251189n
+coronary arterial fistula,s06255921n
+Ermine phenotype,s06256793n
+Camera-Marugo-Cohen syndrome,s06264139n
+desmoplastic infantile ganglioglioma,s06266929n
+neurovascular conflict,s06268909n
+spontaneous intracranial hypotension,s06269434n
+myxopapillary ependymoma,s06271275n
+rosette-forming glioneuronal tumour of the fourth ventricle,s06271494n
+tonsil cancer,s06273231n
+Van den Ende-Gupta syndrome,s06277952n
+Chudley-McCullough syndrome,s06278452n
+ocular albinism type 2,s06278547n
+Bartsocas-Papas syndrome,s06279016n
+Pitt–Rogers–Danks syndrome,s06280352n
+third ventricle chordoid glioma,s06281625n
+Divry-Van Bogaert syndrome,s06281783n
+Sener syndrome,s06281827n
+Rutherfurd syndrome,s06281833n
+mental fatigue,s08484872n
+understanding aphasia,s08536714n
+corneal disease,s08597055n
+language disorder,s08608364n
+track-finders disease,s08613046n
+chronic pyelonephritis,s08650226n
+nasal cancer,s08729684n
+myoclonic epilepsy,s08740653n
+acrorenal syndrome,s08740659n
+Polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy,s08774579n
+N syndrome,s08775562n
+pancreatic hypoplasia-diabetes-congenital heart disease syndrome,s08775935n
+Tonoki syndrome,s08794124n
+allergic asthma,s09190709n
+autoimmune skin disease,s09304631n
+Lazy leukocyte syndrome,s09695462n
+POR deficiency,s09715232n
+eyelid neoplasm,s10021216n
+colorectal carcinoma,s10022008n
+myalgic encephalomyelitis,s10510426n
+reflex sympathetic dystrophy,s10734460n
+Metabolic disease with mental disability,s10760521n
+drug-induced hepatitis,s10832233n
+chronic lateness,s10843218n
+Pathological intoxication,s10898440n
+alcoholic polyneuropathy,s10926496n
+Wuchereria bancrofti filariasis,s10926766n
+granular corneal dystrophy type I,s10935270n
+atherogenic dyslipidemia,s11182172n
+wine disease,s11189548n
+infective psychosis,s11194903n
+Bulbitis of duodenum,s11203523n
+cerebral hemisphere syndrome,s11204058n
+anal papillitis,s11244123n
+Owren's disease,s11645489n
+thyroid angiosarcoma,s11907829n
+spinal cord infarction,s13815266n
+afferent loop syndrome,s13948548n
+systolic heart failure,s14129079n
+broken finger,s06048993n
+Mohr syndrome,s06281848n
+amyotrophic lateral sclerosis with polyglucosan bodies,s06281861n
+glucocorticoid resistance,s06282657n
+Toriello-Carey syndrome,s06282837n
+Skrljevo disease,s06283903n
+Redlich's syndrome,s06285871n
+renal hypertension,s06290368n
+pericardial cyst,s06290744n
+Harboyan syndrome,s06291187n
+BOR-Duane hydrocephalus contiguous gene syndrome,s06291603n
+Pypeć,s06291860n
+Verloes-Deprez syndrome,s06292976n
+Happle Tinschert Syndrome,s06295315n
+atypical autism,s06295833n
+multiple primary neoplasms,s06302307n
+Sheldon-Hall syndrome,s06308978n
+Intermittent hydrarthrosis,s06308998n
+"spondylometaphyseal dysplasia, Kozlowski type",s06309234n
+Gjessing syndrome,s06314534n
+hyperparathyroidism-jaw tumor syndrome,s06315031n
+lipoprotein glomerulopathy,s06332949n
+chronic pharyngitis,s06354508n
+venous thromboembolism,s06355932n
+cenesthopathic schizophrenia,s06373446n
+Vibroacoustic disease,s06423742n
+brain cancer,s06441417n
+neonatal infection,s06443228n
+Franceschetti-Leber phenomenon,s06449243n
+Rothmann-Makai syndrome,s06469221n
+sinus arrhythmia,s06487093n
+"Hereditary cerebral hemorrhage with amyloidosis, Dutch type",s06488186n
+interface dermatitis,s06495447n
+autoimmune connective tissue disorder,s06560288n
+Focal infection of oral origin,s06589645n
+organ torsion,s06604526n
+chronic lower respiratory diseases,s06611846n
+tooth ankylosis,s06754675n
+milker's fever,s06760996n
+organic psychosis,s06763776n
+cerebral toxoplasmosis,s06796500n
+hereditary gingival fibromatosis,s06824549n
+nose disease,s06855002n
+benign lymphoepithelial lesion of salivary gland,s06870463n
+primary spontaneous pneumothorax,s06870921n
+maculo syndrome,s06898614n
+psychosomatic disease,s06941395n
+psoriatic erythroderma,s06961696n
+alpha-1-antitrypsin deficiency,s07044858n
+primary open angle glaucoma,s07075723n
+primary angle-closure glaucoma,s07075724n
+intestinal neoplasm,s07087991n
+acute diarrhea,s07089181n
+pulmonary tuberculosis,s07108730n
+Poxviridae infectious disease,s07129472n
+threatened abortion,s07543174n
+Intensive care unit syndrome,s07700514n
+metal allergy,s07829676n
+ocular motility disease,s07857208n
+Bladder and rectal disturbance,s07914298n
+hard palate cancer,s07916609n
+demencia senil,s07988446n
+bura bura disease,s08003822n
+senile dementia,s08032924n
+impaired renal function disease,s08067055n
+hard tissues disease,s08069194n
+bile duct carcinoma,s08091562n
+cutaneous candidiasis,s08161734n
+solar comedone,s08168610n
+Achor-Smith syndrom,s14270550n
+autosomal recessive disease,s14512446n
+intercurrent disease,s14551808n
+KISS syndrome,s14993085n
+encephalopathy due to hydroxykynureninuria,s15203940n
+Cholinergic poisoning,s15364776n
+myotonic dystrophy type 2,s15760423n
+ovarian tumor,s16907900n
+delirium acutum,s17161517n
+retinal vascular disease,s17162555n
+renal forniceal rupture,s17883964n
+Tibial aplasia-ectrodactyly syndrome,s17938676n
+Scalp Ringworm,s18022450n
+Multilobar pneumonia,s18024950n
+bilateral pneumonia,s18024952n
+opportunistic pneumonia,s18024953n
+necrotizing pneumonia,s18024954n
+Pretesticular azoospermia,s18025638n
+Testicular azoospermia,s18025639n
+posttesticular azoospermia,s18025641n
+Idiopathic azoospermia,s18025642n
+Granulomatous perioral dermatitis,s18035335n
+dropped head syndrome,s18289914n
+Erosion of cervix uteri,s18431803n
+purulent oophoritis,s18444390n
+psychopharmacological delirium,s18464692n
+exogenous disease,s18482241n
+tumor of hematopoietic and lymphoid tissues,s21151515n
+autosomal dominant keratitis,s21161809n
+Malayan filariasis in Hachijo-Kojima Island,s21273484n
+defect state of schizophrenia,s21332619n
+Exfoliative ichthyosis,s21402286n
+monoclonal gammopathy of renal significance,s21532526n
+schizophrenic reaction,s21578822n
+paranoial schizophrenia,s21578872n
+apathy-aboulia syndrome,s21605522n
+Bladder outlet decline,s21709529n
+Chronic Airway-Digestive Inflammatory Disease,s21712060n
+STAR syndrome,s21715028n
+alcoholic ketoacidosis,s21728869n
+methylenetetrahydrofolate reductase deficiency,s21753383n
+Jokela type spinal muscular atrophy,s21754697n
+vaginal melanoma,s21756038n
+congenital disorder of glycosylation type Ia,s21759078n
+extrapulmonary tuberculosis,s21761328n
+Askin's tumor,s21769102n
+geographic atrophy,s21769740n
+Lewy body dementia,s21782206n
+Soemmering ring,s21798291n
+Nipah virus infection,s21801318n
+Pascual-Castroviejo syndrome type 1,s21806032n
+chronic lymphocytic inflammation with pontine perivascular enhancement responsive to steroids,s21869951n
+"spondyloepiphyseal dysplasia, Maroteaux type",s21876012n
+"phocomelia, Schinzel type",s21879386n
+multiple synostoses syndrome,s21881522n
+Parkinson’s disease psychosis,s21928068n
+LADD syndrome,s21935213n
+alpha chain disease,s21954498n
+neotenic complex syndrome,s22132588n
+COACH syndrome,s22133137n
+knee dislocation,s22140005n
+monomelic amyotrophy,s22140079n
+autosomal dominant optic atrophy,s22170955n
+adenosine deaminase 2 deficiency,s22187372n
+Microphthalmia with brain and digit anomalies,s22198821n
+Emberger syndrome,s22200452n
+hormone-sensitive cancer,s22211540n
+spinal epidural hematoma,s22211757n
+Bainbridge Ropers Syndrome,s22220358n
+Heimler syndrome,s22221445n
+Srb's anomaly,s22230071n
+necrotizing bronchiolitis,s22231091n
+breast papillomatosis,s22231212n
+transient myeloproliferative disease,s22239139n
+multicentric carpo-tarsal osteolysis with or without nephropathy,s22250917n
+congenital cataract-microcephaly-nevus flammeus simplex-severe intellectual disability syndrome,s22250961n
+ZTTK syndrome,s22259263n
+CANDLE syndrome,s22259325n
+haploinsufficiency of A20,s22374967n
+ureterovaginal fistula,s22396034n
+SYT1-associated neurodevelopmental disorder,s22493081n
+Pituitary stalk interruption syndrome,s22546244n
+congenital hypofibrinogenemia,s22602802n
+beta-propeller protein-associated neurodegeneration,s22674274n
+"autosomal recessive cutis laxa type 2, classic type",s22696361n
+multisystemic smooth muscle dysfunction syndrome,s22785273n
+postvaccinal encephalitis,s22880877n
+Zellweger spectrum disorder,s22903104n
+arginine:glycine amidinotransferase deficiency,s23174030n
+failure of eruption of teeth,s23293110n
+early pregnancy bleeding,s23307771n
+Agenesis of the vena cava,s23308707n
+repeated implantation failure,s23340994n
+eccrine porocarcinoma,s23360181n
+obesity due to congenital leptin deficiency,s23360904n
+Multicentric carpotarsal osteolysis syndrome,s23400311n
+anemia in pregnancy,s23433319n
+functional hypothalamic amenorrhea,s23473127n
+Acyl-CoA oxidase deficiency,s23485818n
+frozen pelvis,s23490491n
+encephalocraniocutaneous lipomatosis,s23499017n
+vulvar neoplasm,s23523480n
+Bocavirus infection,s23528191n
+Insulin-resistance syndrome type A,s23633956n
+combined vitamin K-dependent clotting factors deficiency,s23633960n
+mucinous cystic neoplasm,s23649378n
+paroxysmal supraventricular tachycardia,s23664239n
+alpha cell hyperplasia,s23685756n
+autosomal dominant deafness-onychodystrophy syndrome,s23707579n
+Steinfeld syndrome,s23707637n
+Gorlin-Chaudhry-Moss syndrome,s23747549n
+Syndromic microphthalmia,s23761739n
+cerebral folate deficiency,s23779719n
+Quadriga phenomenon,s23785947n
+Cerebro-costo-mandibular syndrome,s23816551n
+Hypertension and brachydactyly syndrome,s23821177n
+XK aprosencephaly,s23830755n
+Barber-Say syndrome,s23835282n
+Vulvar Crohn's disease,s23838524n
+progressive myoclonic epilepsy type 7,s23850057n
+avian mycoplasma pneumonia,s23851845n
+Infantile melanodontia,s23859471n
+polymicrogyria with optic nerve hypoplasia,s23859609n
+tertiary peritonitis,s23864054n
+testicular dysgenesis syndrome,s23877830n
+foveal hypoplasia-optic nerve decussation defect-anterior segment dysgenesis syndrome,s23880837n
+tertiary lymphoid structure,s23900812n
+Hand and foot deformity with flat facies,s23908743n
+CODAS syndrome,s23925132n
+Sex chromosome anomalies,s23927369n
+geleophysic dysplasia,s23952730n
+Percheron artery infarction,s23960509n
+Plane-form enamel hypoplasia,s23974129n
+chronic hepatitis,s23977341n
+otofaciocervical syndrome,s23979999n
+distal hereditary motor neuropathy type V,s23983620n
+Occult macular dystrophy,s24012337n
+progeroid features-hepatocellular carcinoma predisposition syndrome,s24046231n
+Menke-Hennekam syndrome,s24046288n
+Vohwinkel syndrome,s24054338n
+Erythema palmare hereditarium,s24064605n
+platypnea-orthodeoxia syndrome,s24088363n
+airport malaria,s24104323n
+"Hereditary Fibrosing Poikiloderma with Tendon Contractures, Myopathy and Pulmonary Fibrosis",s24111933n
+STING-associated vasculopathy with onset in infancy,s24176873n
+Aldred syndrome,s24192363n
+limbic-predominant age-related TDP-43 encephalopathy,s24197309n
+dopamine transporter deficiency syndrome,s24214591n
+Jackson's syndrome,s24274663n
+collagen loss,s24300791n
+7q11.23 duplication syndrome,s24300834n
+paternal depression,s24371301n
+Hardcastle syndrome,s24371830n
+metatropic dysplasia,s24441708n
+chronic prurigo,s24454548n
+Pseudohyperaldosteronism type 2,s24454671n
+2q23.1 microdeletion syndrome,s24537266n
+17q11.2 microduplication syndrome,s24540797n
+amaurosis-hypertrichosis syndrome,s24560258n
+stony coral tissue loss disease,s24618120n
+Bilharzial cor pulmonale,s24644324n
+Ambras type hypertrichosis universalis congenita,s24650982n
+thymoma-associated multiorgan autoimmunity,s24656381n
+alcoholic paranoid,s24659054n
+statin-associated autoimmune myopathy,s24666044n
+Mitchell-Riley syndrome,s24756018n
+Martinez-Frias syndrome,s24760541n
+Parkinsonism-hyperpyrexia syndrome,s24776588n
+megacystis-megaureter syndrome,s24798020n
+cheese washer's lung,s24838610n
+collecting duct carcinoma,s24847222n
+aniridia-intellectual disability syndrome,s24891499n
+"Duodenojejunal atresia with volvulus, absent dorsal mesentery, and Absent superior mesenteric artery",s24924294n
+running injuries,s24959059n
+microvascular angina,s24988514n
+Cohen-Gibson syndrome,s25020701n
+Lamb-Shaffer syndrome,s25033538n
+LPS-responsive beige-like anchor protein deficiency,s25033610n
+Sweet potato virus disease,s25037579n
+Van Den Bosch syndrome,s25104934n
+Familial multiple lipomatosis,s25133506n
+Boylan Dew Greco syndrome,s25173875n
+CDK13-related disorder,s25258256n
+megavitamin-b6 syndrome,s25278792n
+brain-lung-thyroid syndrome,s25282499n
+coffee wilt disease,s25283981n
+Yao syndrome,s25295073n
+congenital microgastria,s25304905n
+Alder-Reilly anomaly,s25315780n
+hemochromatosis type 5,s25337925n
+cervical artery dissection,s25362250n
+"Thiemann disease, familial form",s25364183n
+postpartum infections,s25365366n
+Bosch-Boonstra-Schaaf optic atrophy syndrome,s25371571n
+BOSMA Arhinia Microphthalmia Syndrome,s25401412n
+hereditary hyperferritinemia with congenital cataracts,s25407197n
+low phospholipid associated cholelithiasis,s25409905n
+mixed-phenotype acute leukemia,s25411823n
+microgastria-limb reduction defect syndrome,s25416162n
+megalencephaly-polymicrogyria-postaxial polydactyly-hydrocephalus syndrome,s25425382n
+anaplastic oligodendroglioma,s25436586n
+hereditary alpha tryptasemia syndrome,s25447320n
+reading seizures,s25556437n
+COVID-19 disease in pregnancy,s25576117n
+COVID-19 pandemic in Tokyo,s25607098n
+DeSanto-Shinawi syndrome,s25609583n
+Waardenburg Syndrome Type 2D,s25759210n
+Arakawa's syndrome I,s25832290n
+Idiopathic chronic fatigue,s25854401n
+embryo loss,s26006102n
+cuboid fracture,s26369028n
+spina bifida cystica,s26505740n
+Pork-Cat Syndrome,s26532155n
+long COVID,s26542268n
+autosomal genetic disease,s26682202n
+TARP syndrome,s26738865n
+abdominal tuberculosis,s27047353n
+Extraneural perineurioma,s27054626n
+anterior segment dysgenesis 7,s27062358n
+microphthalmia with limb anomalies,s27065537n
+osteoporosis-pseudoglioma syndrome,s27080323n
+arteriosclerotic heart disease,s27267753n
+cleft lip and cleft palate,s27268352n
+beta thalassemia,s27268546n
+substance-related disorder,s27268856n
+opioid use disorder,s27269375n
+androgenic alopecia,s27269632n
+clostridial necrotizing enteritis,s27269772n
+Cotard delusion,s27269792n
+childhood obesity,s27270006n
+van Leeuwenhoek's disease,s27277227n
+rectal disease,s27298422n
+hepatic artery thrombosis,s27300957n
+MEND syndrome,s27305635n
+Dihydropteridine reductase deficiency,s27324455n
+peripheral motor neuropathy-dysautonomia syndrome,s27400390n
+DAVID syndrome,s27427178n
+SHOX-related short stature,s27428150n
+hard flaccid syndrome,s27447249n
+partial deletion of the long arm of chromosome 7,s27459198n
+20p13 microdeletion syndrome,s27463808n
+idiopathic inflammatory myopathy,s27472863n
+vinyl chloride exposure,s27479864n
+spinal muscular atrophy with respiratory distress type 2,s27489483n
+XYYY syndrome,s27526783n
+mucinous carcinoma of the breast,s27637842n
+osteomalacia in pregnancy,s27743224n
+Hyperkeratosis lenticularis perstans,s27745986n
+"Microphthalmia, syndromic 12",s27808041n
+diabetic foot infection,s27820221n
+Spongy degeneration of the central nervous system,s27825164n
+Ghost cell glaucoma,s27856395n
+esophagogastric junction outflow obstruction,s27888113n
+Monoclonal Immunoglobulin Deposition Disorder,s27902953n
+CDKL5 deficiency disorder,s27921588n
+Nociplastic pain,s27943315n
+bizarre parosteal osteochondromatous proliferation,s27985844n
+"Cerebellar ataxia, neuropathy, vestibular areflexia syndrome",s27990603n
+familial Danish dementia,s28013147n
+twelfth rib syndrome,s28108104n
+fibroblastic and myofibroblastic tumors,s28283469n
+lipofibromatosis-like neural tumor,s28317998n
+Malignant migrating partial seizures in infancy,s28354632n
+secondary glaucoma,s28359610n
+ischemic fasciitis,s28515952n
+congenital intrinsic factor deficiency,s28523071n
+cellular angiofibroma,s28535882n
+Olmsted syndrome,s28582014n
+Angiofibroma of soft tissue,s28625453n
+Recurrent painful ophthalmoplegic neuropathy,s28634527n
+orbital emphysema,s28634531n
+Broken finger,s28651235n
+purulent meningitis,s28680222n
+Embryonal tumour with multilayered rosettes,s28748535n
+"dermatofibrosarcoma protuberans, fibrosarcomatous",s28754432n
+hitchhiker's thumb,s28771561n
+non-freezing cold injury,s28784900n
+Gardner fibroma,s28826607n
+Filippi syndrome,s28844925n
+meibomian gland dysfunction,s28853916n
+Syndromic Microphthalmia,s28869170n
+low-grade myofibroblastic sarcoma,s28869316n
+leukoencephalopathy with brain stem and spinal cord involvement-high lactate syndrome,s29060504n
+Progressive cardiac conduction defect,s29071255n
+sexual masochism disorder,s29747244n
+"emotionally unstable personality disorder, impulsive type",s15926460n
+phosphoenolpyruvate carboxykinase deficiency,s16319902n
+Insect mycophagy,s16332842n
+Faroe SUCLA2 related disease,s16496316n
+chronic tonsillitis,s16785278n
+akinetic abulic syndrome,s05475601n
+Bence Jones proteinuria,s05305422n
+hair loss in children,s06380677n
+pacemaker syndrome,s05582523n
+automatic tachycardia,s22327703n
+HIV wasting syndrome,s14411434n
+cerebellar degeneration,s23231817n
+Mycoplasma pneumoniae infection,s25303429n
+Jaccoud's syndrome,s06310316n
+Autoimmune GFAP astrocytopathy,s23437794n
+anti-AQP4 disease,s24656501n
+Tibial bowing,s17062792n
+breast malformation,s05078723n
+human tail,s05215653n
+duplicated ureter,s05277980n
+congenital bile acid synthesis defect,s07654730n
+Congenital leukemia,s21899342n
+caudal duplication,s24462560n
+ulnar hemimelia,s27259828n
+cephalic disorder,s27268659n
+Acquired haemophilia,s05252417n
+Vijaya Dabbe,s26567989n
+chordoid glioma,s27037522n
+diffuse astrocytoma,s27262709n
+iterative fracture,s05317398n
+leg fracture,s06048546n
+open fracture,s21801231n
+Busch fracture,s23322406n
+foot fracture,s25038640n
+shoulder fracture,s27893581n
+invasive ductal carcinoma,s05234733n
+chronic obstructive bronchitis,s05863336n
+plastic bronchitis,s24115704n
+candidiasis in birds,s05768294n
+vaginal carcinoma,s25460090n
+dilated cardiac chambers,s11185862n
+Eustachian catarrh,s05173366n
+Purulent catarrh,s08062107n
+chronic critical illness,s22126020n
+MDR1 multiple drug sensitivity,s05575046n
+inherited tumor,s05578716n
+Ashkenazi diseases,s06265046n
+synpolydactyly type 1,s06265346n
+progressive pseudorheumatoid arthropathy of childhood,s06265886n
+Joubert syndrome with oculorenal defect,s06278450n
+cortical hyperostosis,s06279883n
+sex-influenced disease,s06467901n
+"Severe X-linked intellectual disability, Gustavson type",s08743108n
+Hooft disease,s08743203n
+posterior polymorphous corneal dystrophy 2,s10935620n
+posterior polymorphous corneal dystrophy 3,s10935621n
+acral mutilation syndrome,s17954491n
+"ataxia, deafness and cardiomyopathy",s17960360n
+NGLY1 deficiency,s21722059n
+keratoendotheliitis fugax hereditaria,s21754859n
+alcohol intolerance,s21769197n
+brachydactyly type D,s21806768n
+Crosby's syndrome,s21885507n
+canine pituitary dwarfism,s22250721n
+familial eosinophilia,s22290448n
+Warsaw breakage syndrome,s23003242n
+3-methylglutaconic aciduria type 1,s23587760n
+microcephalic osteodysplastic primordial dwarfism type I,s23725551n
+brachydactyly type C,s23755543n
+Abdominal chemodectomas with cutaneous angiolipomas,s23809891n
+Sorsby's fundus dystrophy,s23863702n
+Recessive dystrophic epidermolysis bullosa,s24043986n
+rigid spine syndrome,s24067935n
+aromatic L-amino acid decarboxylase deficiency,s24715153n
+Leucine-sensitive hypoglycemia of infancy,s25042729n
+Mitochondrial complex II deficiency,s26005984n
+enhanced S-cone syndrome,s26725315n
+Perry syndrome,s27031692n
+X-linked intellectual disability-hypotonic face syndrome,s27397000n
+Schimke syndrome,s28021908n
+Cousin Syndrome,s28497828n
+Radica and Doodica,s21951361n
+Lucio and Simplicio Godino,s21952052n
+Ganga and Jamuna Shreshta,s22169175n
+Radhika and Dudhika Nayak,s23594581n
+parasitic twin,s27267466n
+Katie and Eilish Holton,s28554691n
+intentional contagion of infection,s24723994n
+coronavirus disease,s26690487n
+Katie and Eilish Holton,s28554691n
+intentional contagion of infection,s24723994n
+coronavirus disease,s26690487n
+bedtime procrastination,s27458400n
+renal cyst,s07049980n
+oral cyst,s16165080n
+epididymal cyst,s22230633n
+cervical thymic cyst,s24101194n
+nasopharyngeal cyst,s24952025n
+Dissociative stupor,s10836356n
+post-traumatic arthrosis,s05125996n
+shoulder arthritis,s05146389n
+elbow osteoarthritis,s05338472n
+varus gonarthrosis,s05551699n
+sacroiliac osteoarthritis,s05589251n
+glenohumeral arthrosis,s05849374n
+Post-traumatic arthritis,s21802370n
+sebum deficiency eczema,s08148520n
+cutaneous haemorrhage,s05523600n
+skin plaque,s06469323n
+epidermal nevus,s06496218n
+demodectic mange in cats,s17305311n
+Spitzoid lesion,s21898050n
+cutaneous lupus erythematosus,s21900632n
+application site reaction,s24136987n
+immersion foot syndrome,s27269426n
+postinfectious encephalitis,s06319440n
+Hendra virus infection,s24817971n
+Vidian neuralgia,s06273222n
+skin burn complication,s05871411n
+cardiac allograft vasculopathy,s23839220n
+endocardiosis in dogs,s05126254n
+dachshund paralysis,s05187621n
+monogenic disease,s05219062n
+copper toxicosis,s05298558n
+gonadal agenesis,s05320940n
+canine neuronal ceroid lipofuscinoses,s05384252n
+Lundehund syndrome,s05454678n
+psychogenic mental retardation,s05259805n
+loss of reality,s05581941n
+emotional disorder,s05747843n
+behavioral disorder associated with intellectual disabilities,s06528194n
+hysterical psychosis,s08606437n
+endogenous mental disorder,s16438332n
+serious mental illness,s18162170n
+psychopathological syndrome,s23517195n
+racial trauma,s24288958n
+Adele syndrome,s25086900n
+esophageal diverticulum,s05152471n
+duodenal diverticulum,s05234523n
+primordial dwarfism,s27269413n
+Murray Valley encephalitis,s05145677n
+subclinical endometritis,s06522885n
+low compliance bladder,s05454879n
+urge incontinence,s06447256n
+reflex incontinence,s06451492n
+extraurethral incontinence,s06451493n
+coital incontinence,s24377876n
+red man syndrome,s05329048n
+eye irritation,s06295772n
+eye inflammation,s06782566n
+dog eye disease,s07170366n
+eye allergy,s08571555n
+optic neuritis,s27270062n
+internal hordeolum,s06762026n
+subcutaneous filariasis,s19831756n
+serous cavity filariasis,s24739465n
+urachal fistula,s21773975n
+Tracheoinnominate fistula,s23745031n
+Ceratophyllus pulicosis,s06046725n
+Ctenocephalides flea pulicosis,s06046737n
+Nosopsyllus flea pulicosis,s06050748n
+affective seizure,s05070540n
+food infection,s06784039n
+white kidney bean incident,s18278495n
+alimentary toxic aleukia,s22230043n
+Japan Air Lines food poisoning incident,s24123357n
+foodborne disease outbreak,s25580152n
+pituitary gigantism,s09219533n
+Schloffer tumor,s05146102n
+Umbilical granuloma,s06779091n
+intubation granuloma,s26363050n
+Embryonal tumour with multilayered rosettes,s28748535n
+"dermatofibrosarcoma protuberans, fibrosarcomatous",s28754432n
+hitchhiker's thumb,s28771561n
+non-freezing cold injury,s28784900n
+Gardner fibroma,s28826607n
+Filippi syndrome,s28844925n
+meibomian gland dysfunction,s28853916n
+Syndromic Microphthalmia,s28869170n
+low-grade myofibroblastic sarcoma,s28869316n
+leukoencephalopathy with brain stem and spinal cord involvement-high lactate syndrome,s29060504n
+Progressive cardiac conduction defect,s29071255n
+sexual masochism disorder,s29747244n
+"emotionally unstable personality disorder, impulsive type",s15926460n
+phosphoenolpyruvate carboxykinase deficiency,s16319902n
+Insect mycophagy,s16332842n
+Faroe SUCLA2 related disease,s16496316n
+chronic tonsillitis,s16785278n
+akinetic abulic syndrome,s05475601n
+Bence Jones proteinuria,s05305422n
+hair loss in children,s06380677n
+pacemaker syndrome,s05582523n
+automatic tachycardia,s22327703n
+HIV wasting syndrome,s14411434n
+cerebellar degeneration,s23231817n
+Mycoplasma pneumoniae infection,s25303429n
+Jaccoud's syndrome,s06310316n
+Autoimmune GFAP astrocytopathy,s23437794n
+anti-AQP4 disease,s24656501n
+Tibial bowing,s17062792n
+breast malformation,s05078723n
+human tail,s05215653n
+duplicated ureter,s05277980n
+congenital bile acid synthesis defect,s07654730n
+Congenital leukemia,s21899342n
+caudal duplication,s24462560n
+ulnar hemimelia,s27259828n
+cephalic disorder,s27268659n
+Acquired haemophilia,s05252417n
+Vijaya Dabbe,s26567989n
+deep clean,s27322413n
+beard trimming,s05220118n
+fractional sterilization,s05747071n
+food sterilization,s05777806n
+occupational safety,s06751791n
+occupational safety,s06969018n
+Occupational safety and health in Valencian Country,s23749663n
+niacin deficiency,s05898274n
+endocrine obesity,s05069944n
+bakers' eczema,s05391705n
+acne venenata,s05164699n
+Gottron's sign,s06466036n
+barbiturate blister,s05378577n
+severe cutaneous adverse reactions,s21794670n
+Sutton's disease,s27448612n
+Photoparoxysmal Response,s17957610n
+plaque psoriasis,s06961581n
+palmoplantar psoriasis,s06961621n
+pustular psoriasis,s22174552n
+Respiratory tract inflammation,s14634263n
+respiratory compromise,s21814121n
+Pacific Coast tick fever,s23817632n
+duodenal stenosis,s17873303n
+drug dependence,s04165250n
+exhaustion disorder,s11514540n
+frosted glass lung nodule,s24189585n
+auditive neglect,s05271729n
+somatosensory neglect,s05271732n
+olfactory neglect,s05271748n
+root fracture,s21748818n
+enamel fracture,s21759088n
+cracked tooth,s23767274n
+Enamel-dentine fracture,s25004835n
+unidirectional block,s22696357n
+congenital heart block,s25464278n
+senile rhinitis,s05153421n
+infectious chronic rhinitis,s07186993n
+fish tuberculosis,s15232458n
+rectal myiasis,s06073660n
+vertebra plana,s16965053n
+tonsil carcinoma,s21712158n
+Page kidney,s05443261n
+hypertensive kidney disease,s12671439n
+neonatal infections group B streptococcus,s10838044n
+phlegmon in newborn,s11078712n
+twisted pedicle,s05583044n
+nasal syphilis,s04636560n
+maxillary sinusitis,s17324840n
+infiltrative tuberculosis,s05864047n
+lumpy skin disease,s28116121n
+hexamitiasis in tortoises,s05343277n
+hexamitiasis in poultry,s05773567n
+chromium allergic contact dermatitis,s05193779n
+cobalt allergy,s06488787n
+gold allergy,s08572582n
+Streptococcul infection,s07822207n
+ectopia lentis-chorioretinal dystrophy-myopia syndrome,s24625919n
+corneal dellen,s14347940n
+neurotrophic keratitis,s21763111n
+nonverbal people,s04675454n
+developmental language disorder,s05156601n
+developmental dysphasia,s05776591n
+posterior fossa syndrome,s21887427n
+Prefibrotic primary myelofibrosis,s26132124n
+thunderstorm asthma,s21761566n
+reduction defects of upper limb,s07471009n
+nevus cell nevi,s05193590n
+Oral melanocytic nevi,s06836450n
+blue nevus,s17356234n
+brown rot of fruit,s04066394n
+Clavibacter michiganensis subsp. sepedonicus,s05135544n
+iron toxicity,s05408751n
+apple proliferation,s05433350n
+pear decline,s05536600n
+Sugarcane mosaic,s05750600n
+leaf spot of sorghum,s05750615n
+Storage rots,s05955545n
+Venturia pyrina,s06337284n
+bacterial plant disease,s06449086n
+tobacco mosaic,s06477394n
+soil borne diseases,s06498139n
+marandu death syndrome,s06877198n
+potato wart disease,s06996461n
+olive peacock spot,s08521570n
+blackcurrant reversion disease,s10425833n
+scleroderris canker,s14122944n
+crown gall disease,s14127894n
+bacterial blight of lilac,s14127904n
+Prunus Necrotic Ringspot disease,s14128116n
+little cherry disease,s14130701n
+chrysanthemum stunt disease,s14133670n
+bacterial wilt and canker of tomato,s14133778n
+black spot disease,s17062660n
+early blight,s17062709n
+rose mosaic,s17316599n
+Cercospora leaf spot,s18245494n
+raspberry vein chlorosis,s21928850n
+raspberry yellow rust,s21929810n
+rose rust,s21930849n
+Rust of sunflower,s21932115n
+White rust of chrysanthemum,s21932157n
+Akiochi disease,s22232370n
+Alternaria leaf spot,s25363076n
+citrus blight,s25591455n
+sheath blight of rice,s25633967n
+focal facial dermal dysplasia type II,s27451957n
+Strachan syndrome,s05286864n
+Barré–Liéou syndrome,s21748093n
+autosomal recessive congenital ichthyosis,s23438683n
+SPONASTRIME dysplasia,s24154313n
+early-onset myopathy-areflexia-respiratory distress-dysphagia syndrome,s25844463n
+post-adoption depression syndrome,s23485330n
+Mahvash disease,s23681815n
+Gastrointestinal radiation injury,s05340376n
+idiopathic mesenteric phlebosclerosis,s09686235n
+Natural killer cell enteropathy,s23890047n
+indolent T cell lymphoproliferative disorder of the gastrointestinal tract,s23951260n
+flat occiput,s22385778n
+fowl spirochetosis,s05216017n
+idiopathic osteonecrosis of the femoral head,s08088991n
+Lymphatic cyst,s05379441n
+Congenital intestinal obstruction,s05898325n
+E. coli infection in lambs,s04523164n
+acetonaemia in cows,s05075515n
+acetonuria in animals,s05075522n
+Guinea pig disease,s05188661n
+food allergy in animals,s05204148n
+bovine trichomoniasis,s05226527n
+kangaroo lumpy jaw disease,s05241687n
+malocclusion in rabbits,s05318064n
+Von-Willebrand disease in animals,s05554652n
+rabbit disease,s06319293n
+pasteurellosis of cattle,s06393654n
+sole ulcer,s06546068n
+Acute ruminal lactic acidosis,s06883536n
+Animal esotropia,s07052393n
+Clostridial infections in sheep,s07166688n
+White heifer disease,s08177908n
+vaginal prolapse in animals,s08179120n
+hove disease,s08598251n
+porcelain disease,s08652134n
+Deer cutaneous fibroma,s08766059n
+uveodermatologic syndrome,s08786183n
+Copper deficiency in sheep,s09267381n
+bovine hyperkeratosis,s09270711n
+livestock disease outbreak,s10265026n
+balloon syndrome,s10831316n
+Tritrichomonas foetus infection in cats,s15504991n
+schistosoma reflexum,s16165900n
+fungal infections in cats,s16596464n
+border disease,s17291783n
+Camel spongiform encephalopathy,s22215997n
+coral disease,s22363140n
+Swine acute diarrhea syndrome coronavirus,s24458123n
+Degenerative Lumbosacral Stenosis,s25879810n
+angular limb deformity,s27685620n
+leg ulcer,s07180400n
+tropical ulcer,s21822663n
+very early onset inflammatory bowel disease,s22158428n
+CD55 deficiency,s22175054n
+Bicyclists vulva,s25110639n
+ovarian germ cell tumors,s24101723n
+Pleural plaque,s08654479n
+vascular tumor,s18411046n
+carunculae hymenales,s05386157n
+X-linked intellectual disability-seizures-psoriasis syndrome,s23276102n
+"deafness-intellectual disability, Martin-Probst type syndrome",s23633988n
+Roifman syndrome,s23832115n
+vaginal aplasia,s05146764n
+near miss,s27268437n
+kidney stone,s05878865n
+sensory hyperreactivity,s08658117n
+Pharyngostomum cordatum infection,s07816993n
+cutaneous tuberculosis,s05096555n
+avian mycotoxicosis,s05771822n
+avian aflatoxicosis,s05771851n
+avian ochratoxicosis,s05771924n
+tall fescue poisoning,s24231897n
+phosphorus poisoning,s05170761n
+cycad poisoning,s05745804n
+alcohol poisoning,s08602271n
+Carbamate poisoning,s22330543n
+"49,XXXYY syndrome",s24583271n
+acute undifferentiated leukemia,s05244420n
+ischemic myocardial contracture,s05454342n
+spastic paresis,s22188751n
+substance-induced anxiety disorder,s06494802n
+"Metaphyseal dysplasia, Pyle type",s17941879n
+familial juvenile hyperuricemic nephropathy,s18027241n
+spinocerebellar ataxia type 31,s18264047n
+spinocerebellar ataxia type 2,s18265039n
+Diffuse epidermolytic palmoplantar keratoderma,s21619536n
+Christianson syndrome,s21681799n
+Autosomal recessive spastic ataxia of Charlevoix-Saguenay,s21711133n
+Arts syndrome,s21715052n
+spinocerebellar ataxia type 1,s21724704n
+Charcot-Marie-Tooth disease X-linked recessive 5,s21885503n
+autosomal dominant non-syndromic intellectual disability 5,s21887037n
+"myopathy, lactic acidosis, and sideroblastic anemia",s22264676n
+spastic ataxia 3,s22326296n
+Helsmoortel-Van der Aa syndrome,s22493089n
+Stromme syndrome,s23507890n
+Enamel-Renal Syndrome,s23564786n
+X-linked intellectual disability-psychosis-macroorchidism syndrome,s23587749n
+syndromic X-linked intellectual disability type 10,s23587756n
+Cole-Carpenter syndrome,s23625078n
+White Sutton syndrome,s23630274n
+"acromesomelic dysplasia, Maroteaux type",s23755492n
+Matthew-Wood syndrome,s23785242n
+Sengers syndrome,s25033532n
+Waardenburg syndrome type 3,s25310888n
+orofaciodigital syndrome V,s25519614n
+Waardenburg Syndrome Type 4A,s25749236n
+Severe intellectual disability-poor language-strabismus-grimacing face-long fingers syndrome,s25788784n
+acromelic frontonasal dysostosis,s26411653n
+gangliosidosis GM1,s27268881n
+Isolated growth hormone deficiency,s29012351n
+Intravascular coagulation,s06505425n
+factor VII deficiency,s21720425n
+factor X deficiency,s21751452n
+papillomatosis in birds,s05759482n
+roe deer papillomatosis,s05789028n
+sailor gait,s05561631n
+waddling gait,s06446246n
+Wernicke-Mann hemiplegia,s18361395n
+myopathic gait,s27270390n
+Polymerase proofreading-associated polyposis,s25989842n
+Epstein-Barr virus-associated lymphoproliferative diseases,s23603970n
+monomorphic epitheliotropic intestinal T cell lymphoma,s23992788n
+pain in spine,s05178642n
+fish vertebra,s05299885n
+"acromesomelic dysplasia, Maroteaux type",s23755492n
+vertebral hemangioma,s24176840n
+hemiplegic migraine,s22356225n
+Andermann syndrome,s21711130n
+vaginal prolapse,s05470542n
+anorexia during pregnancy,s21906013n
+Toxoplasma pneumonia,s12652199n
+intervertebral osteochondrosis,s05319153n
+ring chromosome 15,s24741668n
+ring chromosome 22,s27521025n
+Organic dyslalia,s06310437n
+Motor dyslalia,s06310438n
+sensorial dyslalia,s06310439n
+Diabetic complications cardiovascular,s05756325n
+Nobekur's syndrome,s06014285n
+diabetic mastopathy,s24502391n
+"complaints of arm, neck and shoulder",s06487388n
+mouse arm,s06489568n
+allergy to animal hair,s08675512n
+esophageal rupture,s05248911n
+tianeptine abuse,s18481812n
+diphenhydramine abuse,s21432007n
+withdrawal symptom,s21709929n
+overvalued idea,s06345100n
+paralogical thinking,s15074212n
+Luft's syndrome,s23512513n
+feline hypervitaminosis A,s06772859n
+bone sarcoma,s26229351n
+Developmental odontogenic cyst,s06564828n
+prostate calculus,s04193256n
+Loose body in joint,s04082741n
+Ischiopubic synchondrosis of van Neck,s05402300n
+argyrophilic grain disease,s16579780n
+chronic heart failure,s06450228n
+chronic rhinosinusitis,s22195685n
+skin abscess,s06900508n
+cryptogenic drop attacks,s18499813n
+TAFRO syndrome,s24924201n
+progressive iris atrophy,s21283645n
+Lorain-Levi syndrome,s06046353n
+mandibular retrognathism,s04111749n
+maxillary retrognathism,s05308836n
+bovine viral diarrhea-mucosal disease,s07747750n
+Localized tumor,s06969152n
+idiopathic hypereosinophilic syndrome,s21903175n
+Eisenmenger complex,s05136499n
+neuroleptic-induced parkinsonism,s06093033n
+Granular myringitis,s23992502n
+feline gingivostomatitis,s04083842n
+secondary biliary cirrhosis,s05303672n
+Grauhan syndrome,s17923565n
+Dzierzynsky syndrome,s17924826n
+Cedar pollinosis,s07844198n
+epicardial myocarditis,s27784679n
+vasodilatory shock,s23887044n
+fish poisoning,s05128959n
+acute epididymo-orchitis,s06809790n
+porcine intestinal spirochaetosis,s05215867n
+Norovirus gastroenteritis,s08637216n
+small bowel atresia,s05382513n
+Fabry's crisis,s18461507n
+tall stature,s05157148n
+gallbladder mucocele,s07080520n
+laxative abuse,s05156094n
+duodenal cancer,s05433141n
+LAMB Syndrome,s05162841n
+NAME syndrome,s05162843n
+Hakim's triad,s05194564n
+Wartenberg's syndrome,s05275360n
+bobble-head doll syndrome,s05309699n
+John Wayne Syndrome,s05784015n
+Kulenkampff-Tarnow syndrome,s06094000n
+akinetic-rigid syndrome,s06114453n
+sensory processing sensitivity,s06185676n
+Small Penis Syndrome,s06346519n
+dependence syndrome,s11022287n
+mucocutaneous ocular syndrome of Fuchs,s15493791n
+sicca syndrome,s17874473n
+Allen-Hines syndrome,s17946530n
+religious trauma syndrome,s22331401n
+thiamine-responsive megaloblastic anemia syndrome,s22342653n
+Carey Fineman Ziter syndrome,s22375951n
+savant syndrome,s23025579n
+Syndromes affecting the heart,s23399424n
+IGSF1 deficiency syndrome,s23607373n
+H syndrome,s23677345n
+Peter Pan syndrome,s23785965n
+Posterior inferior cerebellar artery syndrome,s24281740n
+achalasia microcephaly,s24294117n
+brachyolmia-amelogenesis imperfecta syndrome,s24574039n
+Perrault syndrome,s24583276n
+fetal akinesia deformation sequence,s25364100n
+Hecht-Scott syndrome,s25469073n
+motor developmental delay due to 14q32.2 paternally expressed gene defect,s25484877n
+cleft lip-palate-ectodermal dysplasia syndrome,s25555607n
+autistic burnout,s25664764n
+multisystem inflammatory syndrome in children,s25783745n
+chromosome 2q32-q33 deletion syndrome,s25847538n
+Meier-Gorlin syndrome,s26026355n
+mosaic variegated aneuploidy syndrome 1,s26039778n
+Branchioskeletogenital syndrome,s26139762n
+"hypertelorism, microtia, facial clefting syndrome",s26175693n
+Wilkomirski syndrome,s26604642n
+Post-cardiac arrest syndrome,s29086576n
+Spasmus nutans,s06305860n
+catheter-associated urinary tract infection,s23834268n
+spider telangiectasis,s05210626n
+big liver and spleen disease,s05762320n
+anaplastic ependymoma,s24504563n
+complete spinal cord injury,s05316568n
+psychogenic vomiting,s27452792n
+ovulation bleeding,s18102240n
+pancreatic mucinous cystic neoplasm,s25427267n
+Serous cystadenoma,s25016429n
+gluten ataxia,s08723953n
+eye burn,s06009072n
+late life depression,s05144600n
+cognitive inertia,s04262457n
+digital dementia,s21875434n
+lung pierced by sword,s05197163n
+lung rupture,s05307467n
+traumatic pneumothorax,s06435708n
+vaping-associated pulmonary injury,s24928748n
+systemic autoinflammatory disease,s08761332n
+GFER Syndrome,s22215895n
+Radiation-induced lumbar plexopathy,s21807973n
+spasm induced fracture,s06048720n
+central nervous system primitive neuroectodermal tumor,s24033762n
+neuroepithelial neoplasm,s27048368n
+femoral retroversion,s05426961n
+neonatal clavicular fracture,s14743576n
+atriodigital dysplasia,s22272062n
+nipple pigmentation,s24433170n
+functional nonretentive fecal incontinence,s06335516n
+fracture of glenoid cavity of scapula,s14758420n
+refractory anemia with ringed sideroblasts and thrombocytosis,s10022121n
+trisomy 14,s05172847n
+trisomy 15,s05176238n
+pentasomy X,s05221827n
+trisomy 3,s05588173n
+trisomy 12,s05588205n
+Benign recurrent intrahepatic cholestasis,s06497416n
+familial combined hyperlipidemia,s06518060n
+male androgenic alopecia,s06376821n
+necrotic enteritis in poultry,s05767351n
+vulval Paget's disease,s24522708n
+Poorly cohesive gastric carcinoma,s21471561n
+march hemoglobinuria,s05204333n
+renal sarcoidosis,s05215886n
+RHYNS syndrome,s08775297n
+renal abscess,s08785707n
+shrunken pore syndrome,s26274605n
+diffuse alopecia areata,s06380274n
+pseudo-alopecia areata,s06380672n
+mucosal lichen planus,s25562150n
+Lichen planopilaris,s26968979n
+guinea pig pasteurellosis,s05240440n
+sarcoptic mange in dogs,s05286755n
+psittacosis in birds,s05768134n
+disease caused by insects,s05993603n
+helminthic zoonosis,s20227407n
+Frederick's syndrome,s05808012n
+Frederick's syndrome,s05808012n
+pacemaker-mediated tachycardia,s06341959n
+Impact of the COVID-19 pandemic on children,s25716437n
+insulin dependent diabetes mellitus type 1B,s18330910n
+primary progressive multiple sclerosis,s25003345n
+Marine-Lenhart syndrome,s05199972n
+IgG4-associated cholangitis,s10465598n
+Lewis-Sumner syndrome,s15892454n
+axial spondyloarthritis,s22243686n
+Undescended testicle in horses,s08562939n
+Boutonniere deformity,s05348273n
+deformity of chest and rib,s17928035n
+allergic contact dermatitis,s05799531n
+seborrhea adiposa,s05157689n
+seborrhea sicca,s05192935n
+saddle sore,s27269227n
+post kala-azar dermal leishmaniasis,s06826147n
+nasal vestibule furuncle,s06251263n
+furuncle of face,s07786310n
+anal eczema,s05536120n
+atopic dermatitis of scalp,s09201991n
+cockade pattern rash,s05184723n
+non-blanching rash,s23997676n
+idiopathic urticaria,s14884377n
+white dermographism,s23668005n
+alopecia X,s05431527n
+dog bacterial folliculitis,s23738939n
+Tattoo allergy,s06309630n
+penile paraffinoma,s05397420n
+breast paraffinoma,s05401351n
+fasciitis-panniculitis syndrome,s09680496n
+ocular cysticercosis,s06972373n
+rodent mite dermatitis,s22159183n
+Thysanoptera dermatitis,s06073502n
+arthropod dermatitis,s06075131n
+Nevus sebaceus of Jadassohn,s06266810n
+depressive syndrome,s04230578n
+behavioral disorder,s06783457n
+Godot's syndrome,s06761150n
+cluster C personality disorder,s07041005n
+"Delusional disorder, somatic type",s06645838n
+delusion of filiation,s14103717n
+late-onset schizophrenia,s05160159n
+substance abuse in schizophrenia,s14467731n
+childhood schizophrenia,s23705749n
+trance disorder,s08606391n
+dissociative anesthesia,s11510865n
+trance and possession disorder,s16010954n
+maladaptive daydreaming,s23550178n
+Other specified dissociative disorder,s26284980n
+child abduction by pedophile,s06493816n
+helper syndrome,s05134553n
+dyssocial personality,s05517729n
+Immature personality disorder,s26526848n
+nap time sleep terror,s14877057n
+attention deficit disorder,s22325420n
+Lisa Littman,s24028053n
+failure of genital response,s06481277n
+Biemond syndrome type 2,s24274609n
+pulmonary agenesis,s16311962n
+Guérin-Stern syndrome,s06265583n
+Genoa syndrome,s06277904n
+isotretinoin embryopathy,s06278902n
+thalidomide scandal,s13867898n
+Rodrigues blindness,s15806864n
+Edinburgh malformation syndrome,s21879343n
+spinal dysraphism,s05524862n
+ulnar dimelia,s24006154n
+Morel-Wildi syndrome,s06301497n
+epithelioid glioblastoma,s26983297n
+Rosette-forming glioneuronal tumor,s27051536n
+distal humeral fracture,s05422333n
+humeral shaft fracture,s17143718n
+proximal humerus fracture,s23564501n
+femoral head fracture,s05408069n
+calvarial fracture,s11277887n
+parry fracture,s05458553n
+talus fracture,s25035636n
+broken toe,s28634897n
+chronic asthmatic bronchitis,s16103056n
+liver angiosarcoma,s25006408n
+radon-related lung cancer,s05155478n
+oral squamous cell carcinoma,s21920539n
+palatal neoplasm,s24978387n
+white cancer,s25111089n
+malignant chondroid syringoma,s25726859n
+lymphoepithelioma-like thymic carcinoma,s21906330n
+Squamous-cell carcinoma of the vagina,s21771119n
+oral squamous cell carcinoma,s21920539n
+Squamous-cell carcinoma of the vagina,s21771119n
+chronic cardiac insufficiency,s16492088n
+Hypertension and the brain,s26944407n
+burn shock,s05871407n
+post-burn pruritus,s07841663n
+peptic esophagitis,s06773374n
+gastric reflux finding,s15238082n
+cytochrome P450 oxidoreductase deficiency,s23765001n
+video game sickness,s05183716n
+Grammar Pedantry Syndrome,s23659030n
+tardive dystonia,s06122924n
+Dermatitis repens,s05194410n
+PIK3CA-related overgrowth spectrum,s23252879n
+segmental outgrowth-lipomatosis-arteriovenous malformation-epidermal nevus syndrome,s24324894n
+segmental aplasia of the mullerian ducts,s05283664n
+Mullerian anomalies,s21735155n
+congenital pollex flexus,s05143704n
+torsion of the appendix testis,s25632151n
+galactorrhea-amenorrhea syndrome,s17885712n
+work-related disease,s08737826n
+congenital hereditary endothelial dystrophy type I,s10935603n
+exposure keratopathy,s26140761n
+vector-borne transmission,s25623745n
+human-to-human transmission,s25790912n
+Walcheren Fever,s06519029n
+2006 Norwegian E. coli outbreak,s07156388n
+Gelsenkirchen Typhoid Epidemic of 1901,s14405370n
+1915 typhus and relapsing fever epidemic in Serbia,s18499537n
+2017–18 United States flu season,s21730420n
+2017 Gorakhpur hospital deaths,s22066291n
+2018–2020 Kivu Ebola epidemic,s22363219n
+Plague epidemic in Morocco,s22695572n
+1870 Barcelona yellow fever epidemic,s23675515n
+1929–1930 psittacosis pandemic,s24093472n
+1563 London plague,s24289213n
+2019 Kuala Koh measles outbreak,s24796799n
+Romanian typhus outbreak during WWI,s25252834n
+COVID-19 pandemic in Israel,s25522706n
+412 BC epidemic,s25551346n
+1821 Barcelona yellow fever epidemic,s25561677n
+1772–1773 Persian Plague,s25575920n
+Black Death in Sweden,s25651500n
+Black Death in France,s25669590n
+Black Death in Italy,s25717822n
+1853 Stockholm cholera outbreak,s25782971n
+1913 Romanian Army cholera outbreak,s25917059n
+1976 Zaire Ebola virus outbreak,s25950617n
+Hittite plague,s28955484n
+personal hygiene,s06298213n
+male grooming,s23745164n
+occupational health and safety,s27269822n
+intentional contagion of sexually transmitted infection,s05954715n
+wrist ganglion,s26469622n
+Kyungshin famine,s06242738n
+Yōwa famine,s07783808n
+Kangi famine,s07788671n
+2017 South Sudan famine,s21750234n
+Nyasaland Famine 1949,s21794917n
+1866-1868 famine in Algeria,s21853286n
+Kanshō famine,s23171035n
+Persian famine of 1870–1872,s23614577n
+rice riots of 1993,s23749041n
+Year of bon,s23776447n
+Kyōhō famine,s23821256n
+Swedish famine of 1867-1869,s24392936n
+1993 Sudan famine,s25363576n
+Food security during the COVID-19 pandemic,s25792989n
+Factitious dermatitis,s05960202n
+organ neurosis,s05202628n
+undifferentiated somatoform disorder,s06496710n
+somatoform autonomic dysfunction,s08607984n
+somatic syndrome,s17919593n
+somatoform disorder not otherwise specified,s24411967n
+gender identity disorder,s07829637n
+magiphrenic syndrome,s11173495n
+thymoneuroleptic syndrome,s11177322n
+hebephrenic syndrome,s18428777n
+SSRI-induced apathy syndrome,s18450184n
+pseudoneurasthenic syndrome,s22177490n
+psychopathological symptom,s22287107n
+free-floating anxiety,s18372086n
+nuclear anxiety,s25424269n
+pulsion diverticulum,s05382464n
+Barsony-Teschendorff syndrome,s05480599n
+cervical esophageal pouch,s05480688n
+hypertonic dehydration,s06276971n
+hypotonic dehydration,s06276977n
+2006–08 Southeastern United States drought,s21742685n
+2018 European drought and heat wave,s22328676n
+1540 European drought,s22425578n
+Eastern Cape drought,s25547667n
+2021 Taiwan drought,s27662726n
+2020–2022 North American drought,s27855997n
+2021 Central Asia drought,s28318448n
+quartan fever,s24343967n
+focal tuberculosis,s05863843n
+Infantile tuberculosis,s10838113n
+sickle cell retinopathy,s26131658n
+visual disturbance,s05172010n
+Acute visual loss,s06324574n
+colour vision deficiency,s07030508n
+Subjective visual disturbances,s10859362n
+visual halo,s18410758n
+Satan's bolete poisoning,s16625948n
+syndrome de Szechwan,s23512654n
+bacterial food poisoning,s07012295n
+Duck plague,s05761270n
+Herpes tracheitis of Amazon parrots,s05761694n
+herpesvirus inclusion body hepatitis in pigeon,s05761698n
+hypertension secondary to drug,s06934345n
+cubital tunnel syndrome,s07835769n
+Occupational asthma due to chromium,s06751720n
+baker's asthma,s10418390n
+hépatitis C infection by blood products,s08162978n
+caustic ingestion,s22231089n
+hydrofluoric acid burn,s25309291n
+occupational myalgia,s12769865n
+guitar nipple,s06301901n
+Satchmo's syndrome,s21740205n
+snorkel dead air space,s05395907n
+hoof abscess,s05787395n
+splenic abscess,s06863002n
+parapharyngeal abscess,s23436478n
+pulmonary acariasis,s05957832n
+intestinal acariasis,s05999100n
+Epidermoptes infection,s05999654n
+infestation by Cytodites nudus,s06049048n
+avian ascariasis,s05775851n
+canine brucellosis,s05217465n
+canine brucellosis,s06270171n
+malta fever,s16026329n
+Brucella abortus infection,s17112561n
+non-clostridial gas gangrene,s08087452n
+infectious acute rhinitis,s07186991n
+fungal rhinitis,s07801461n
+Bacterial rhinitis,s07801465n
+cryptococcosis in birds,s05768464n
+ringworm in cattle,s05497508n
+scalp mycosis,s06437519n
+acute epiglottitis,s09182450n
+Mycose aviaire,s05768194n
+fungal rhinitis,s07801461n
+Macrorhabdus ornithogaster infection,s14159402n
+giardia in dogs,s05298827n
+Intestinal giardiasis,s07815177n
+worms in cats,s05176310n
+bird helminthiasis,s05775749n
+ocular helminthiasis,s06051541n
+avian syngamosis,s16512109n
+bovine leptospirosis,s05216022n
+pig leptospirosis,s05216028n
+acute HIV infection,s05081021n
+gallstone ileus,s05440446n
+atonic colon,s06164348n
+mixed incontinence,s06986191n
+mixed incontinence,s06986191n
+niacin flush,s11659309n
+vancomycin induced red man syndrome,s23512529n
+secondary cataract,s25064932n
+pars planitis,s18416980n
+Oestridae myiasis,s05743703n
+nasopharyngeal myiasis,s06046228n
+oral myiasis,s06046299n
+Urogenital myiasis,s06046341n
+aural myiasis,s06046542n
+Rhinoestrus myiasis,s06046569n
+Lucilia myiasis,s06046615n
+Calliphora myiasis,s06046705n
+Hypoderma tarandi myiasis,s06046777n
+Sarcophaga myiasis,s06046787n
+Auchmeromyia myiasis,s06046828n
+Eristalis tenax myiasis,s06046845n
+Fannia myiasis,s06046854n
+Piophila myiasis,s06047111n
+Musca domestica myiasis,s06050409n
+Muscina myiasis,s06050432n
+Drosophila myiasis,s06050505n
+Protophormia terraenova myiasis,s06051191n
+Alouattamyia baeri myiasis,s06051793n
+Parasarcophaga myiasis,s06051866n
+Psychoda myiasis,s06051906n
+Hermetia illucens myiasis,s06061974n
+Dryomyza formosa myiasis,s06071652n
+Cynomya cadaverina myiasis,s06071660n
+Teichomyza fusca myiasis,s06072958n
+Sarcophaga incisilobata myiasis,s06073669n
+Anthomyia myiasis,s06073698n
+Cephalopina titillator myiasis,s06075188n
+chronic otitis media,s05198593n
+paratyphoid A,s05079055n
+paratyphoid infection in birds,s05764069n
+paratyphoid A,s09197177n
+Plague of Sheroe,s23825095n
+1592–1593 London plague,s24115733n
+emphysematous pyelonephritis,s11003089n
+avian staphylococcal infection,s05767538n
+sheep and goat pox,s05751587n
+Tahyna virus encephalitis,s05769740n
+viral arthritis,s06310312n
+swim bladder inflammation,s16383260n
+West Nile fever,s21818704n
+T-Cell Acute Lymphoblastic Leukemia,s26363042n
+ovine progressive interstitial pneumonia,s06760629n
+fish nocardiosis,s06257128n
+bovine nocardiosis,s07788633n
+Nocardia seriolae nocardiosis,s07822526n
+coridor disease,s06447768n
+actinobacillosis of swine,s04095818n
+bovine actinobacillosis,s08726913n
+invasive pneumococcal disease,s18025059n
+arthropod infestation,s06072236n
+Yersinia enterocolitica yersiniosis,s05231312n
+cryptosporidiosis in birds,s05775649n
+canine babesiosis,s04158769n
+bovine babesiosis,s06446380n
+bovine piroplasmosis,s11152798n
+fish proliferative kidney disease,s05227876n
+neon tetra disease,s05258956n
+canine demodicosis,s06003036n
+carcinogenic parasite,s22603200n
+meningococcal septicemia,s07143125n
+prosthetic valve endocarditis,s05204490n
+Borna disease in ostriches,s05760557n
+canine demodicosis,s06003036n
+canine demodicosis,s10264688n
+bovine genital campylobacteriosis,s05214811n
+Salmonella pneumonia,s05059451n
+actinobacillosis of swine,s04095818n
+greasy pig disease,s04097058n
+Postpartum dysgalactia syndrome,s05196002n
+swine dysentery,s05215865n
+colibacillosis in young pigs,s05219317n
+Edema Disease of Swine,s05220941n
+Clostridium Perfringens infection in piglets,s05231939n
+mycoplasmal polyserositis and arthritis of pigs,s05238240n
+red disease of eels,s05469757n
+commensal Mycoplasma infectious disease,s13984556n
+porcine proliferative enteropathy,s16456753n
+avian arboviral infection,s05759826n
+osmotic diarrhea,s18385683n
+bacterial paronychia,s07786314n
+avian rotavirus enteritis,s05759750n
+Salmonella meningitis,s05079353n
+Salmonella pneumonia,s05059451n
+Salmonella arthritis,s05079346n
+Salmonella meningitis,s05079353n
+parrot coccidiosis,s05775612n
+bovine coccidiosis,s06447988n
+coccidiosis in goats and sheep,s06448816n
+cyclospora infection,s16697727n
+Bovine rhinovirus infection,s07788153n
+Tahyna virus encephalitis,s05769740n
+coronavirus disease in birds,s05760521n
+transmissible enteritis of turkeys,s05760545n
+bovine coronavirus infection,s07787630n
+appendicular infiltration,s05879515n
+chronic appendicitis,s25723279n
+gallbladder empyema,s07080521n
+atypical colitis,s21902453n
+radiation colitis,s22225330n
+checkpoint inhibitor induced colitis,s25783909n
+Segmental colitis associated with diverticulosis,s26047131n
+drug-induced enteritis,s23782607n
+lymphocytic esophagitis,s23550606n
+Acute gastritis,s05840409n
+nodular gastritis,s07999967n
+osseous tuberculosis,s07098809n
+post-ERCP pancreatitis,s24474745n
+equine parotitis,s05480062n
+epistenocardiac pericarditis,s05547856n
+pelvic peritonitis,s05859179n
+catarrhal stomatitis,s07775916n
+transient synovitis,s05132296n
+knee synovitis,s25044946n
+acute tonsillitis,s07109284n
+pseudomembranous tonsillitis,s11198497n
+lacunar tonsillitis,s11198515n
+follicular tonsillitis,s11198556n
+catarrhal tonsillitis,s11198568n
+allergic vaginitis,s06874442n
+anti-neutrophil cytoplasmic antibody-associated vasculitis,s09692819n
+vaginal irritation,s06773691n
+childhood arthritis,s07031820n
+acute gastroenteritis,s08143478n
+capillariasis in birds,s05776222n
+corticosteroid-induced lipodystrophy,s23830547n
+McKittrick-Wheelock Syndrome,s21748345n
+pleural carcinosis,s05277824n
+bone marrow carcinosis,s05463261n
+bone marrow carcinosis,s05463261n
+osteolytic metastasis,s05473634n
+osteoblastic metastasis,s05473635n
+locoregional metastasis,s16061448n
+abortion in cattle,s09304629n
+locally malignant tumor,s06436255n
+heat cancer,s16063460n
+second primary neoplasm,s18369852n
+rectal melanoma,s05537479n
+Parosteal osteosarcoma,s11112303n
+biliary papillomatosis,s24613329n
+malignant peripheral nerve sheath tumor,s27269633n
+cerebellopontine angle tumor,s05282578n
+mature T-cell and NK-cell lymphoma,s26357726n
+borderline tumor,s08137721n
+nongerminomatous germ cell tumor,s16121266n
+childhood neoplasm,s24270060n
+cortical ataxia,s06018097n
+vestibular ataxia,s06018102n
+truncal ataxia,s24018891n
+infant brain damage,s05183413n
+neurometabolic disease,s05167797n
+viral encephalitis transmitted by tick,s05232708n
+vascular encephalopathy,s05921628n
+postresuscitation encephalopathy,s08041558n
+anti-IgLON5 disease,s22126455n
+pseudo-Lennox syndrome,s05166597n
+alternative psychosis,s17928462n
+suprascapular nerve compression,s05176035n
+Double crush syndrome,s13969718n
+Ischemic monomelic neuropathy,s24855660n
+pontine syndrome,s24474517n
+Denny-Brown Syndrome,s05302001n
+cerebellar malformation,s06322122n
+subependymal heterotopia,s25462015n
+Cellulitis of finger,s05160770n
+aspergillosis in birds,s05768239n
+bovine aspergillosis,s07813571n
+presenile dementia,s05123104n
+subcortical dementia,s05351386n
+prolongated alalia,s18394916n
+Setting sun sign,s05531767n
+microphobia,s25959926n
+fear of pregnancy,s05948669n
+fear of childbirth,s08730723n
+e-commerce fear,s16908390n
+fear of hunger,s24755475n
+irritant-induced asthma,s06751710n
+asthmatic syndrome,s11929549n
+childhood asthma,s12816550n
+follicular bronchiolitis,s06306713n
+childhood interstitial lung disease,s25715583n
+Acute tracheobronchitis,s06889461n
+posttraumatic stress disorder in children and teens,s05460134n
+post-traumatic stress disorder in children,s25291140n
+acquired aortic stenosis,s04158993n
+weak central coherence theory,s05407751n
+muscle contracture,s07814897n
+Aortic arch syndrome,s05569984n
+scalenus syndrome,s05176165n
+hyperabduction syndrome,s05176166n
+Cortes Lacassie syndrome,s23629643n
+imu reaction,s07771090n
+resignation syndrome,s22291449n
+alobar holoprosencephaly,s05075383n
+Semilobar holoprosencephaly,s05075384n
+midline interhemispheric variant of holoprosencephaly,s05075407n
+antipsychotic-induced metabolic syndrome,s06128277n
+burn shock,s18497174n
+surgical shock,s25664188n
+serrated polyposis syndrome,s25981017n
+discrimination against transgender men,s28175548n
+endogenous psychosis,s05177924n
+schizophrenia spectrum disorder,s06562072n
+atypical psychosis,s09827855n
+Fundal haemorrhage,s08097213n
+Jellinek's sign,s18176520n
+Pavo cristatus mut. alba,s25844198n
+immediate postpartum haemorrhage,s18455695n
+secondary hyperaldosteronism,s08651257n
+secondary hyperaldosteronism,s16488669n
+drug induced aplastic anemia,s08034479n
+ischemic cardiomyopathy,s05833446n
+talipes calcaneus,s05213616n
+homozygous familial hypercholesterolemia,s16502382n
+congenital hydrocephalus,s23782194n
+"malignant hyperthermia, susceptibility to, 1",s22471051n
+megaloblastic anemia in infants,s27431648n
+muscle hernia,s05232329n
+muscle imbalance,s05577273n
+acute myopathy of intensive care,s06366848n
+large-histiocyte-related immune myopathy,s24445737n
+myofibrillar myopathy,s25891768n
+Autophagic Vacuolar Myopathy,s26363045n
+tropical rat mite dermatitis,s05957850n
+house mouse mite dermatitis,s05999270n
+snake mite dermatitis,s06071602n
+burn blister,s05577688n
+nipple bleb,s21761061n
+bipolar disorder type I,s18077686n
+bipolar disorder type II,s18077690n
+depression during pregnancy,s05186709n
+unipolar mania,s26694165n
+chronic tic disorder,s06548106n
+transient tic disorder,s06551397n
+lethal catatonia,s06417980n
+epileptoid psychopathy,s06453128n
+relationship addiction,s10477101n
+inability to maintain relationships,s17878981n
+focal nocturnal epileptiform activity,s07179224n
+Wikipedia addiction,s25094471n
+Alwadei syndrome,s25318435n
+GRIN disorder,s27913416n
+Jordan's Syndrome,s28642728n
+profound intellectual disability,s06340763n
+moderate mental retardation,s07016913n
+Severe mental retardation,s07016920n
+savant syndrome,s26690756n
+Overeating and vomiting,s08099111n
+specific learning disability,s05316167n
+sexual aversion,s18492107n
+orgasmic dysfunction,s08630320n
+death-grip syndrome,s21812600n
+unspecified paraphilic disorder,s24686280n
+Attraction to fictional characters,s24865063n
+trench neurosis,s06250142n
+old sergeant's syndrome,s25684586n
+Briquet's syndrome,s05180239n
+loosening of associations,s05217104n
+arch of circle,s05339345n
+command automatism,s05426705n
+psychological pillow,s05879193n
+psychomotor agitation,s05910544n
+Pavlov's symptom,s06035113n
+psychomotor drive,s06293022n
+automatic negative thoughts,s23850715n
+Fear of Being Offline,s23698025n
+toxic glaucoma,s07075722n
+Schwartz–Matsuo syndrome,s27696011n
+pachychoroid disorders of the macula,s25646935n
+fortification illusions of migraine,s06325142n
+giant papillary conjunctivitis,s05470096n
+Death and legacy of Tom Thomson,s22517226n
+Post-transfusion hepatitis,s08113230n
+fibrinogen-transmitted hepatitis C in Japan,s08135277n
+submucosal abscess,s06283399n
+retrotonsillar abscess,s05326869n
+nematode infection in dogs,s05322353n
+tropical eosinophilia,s05993447n
+Post-transfusion hepatitis,s08113230n
+Horsehair crab,s24221944n
+chronic purulent otitis media,s05201557n
+tropical eosinophilia,s05993447n
+arachnid infestation,s05993593n
+Anoplura infestation,s06052483n
+Crustacean infestation,s06072240n
+endoparasitic infestation,s15289154n
+Acanthamoeba infection,s05220986n
+spiroptera carcinoma,s15486460n
+wound infections due to Vibrio cholerae,s08658870n
+Vibrio vulnificus infection,s09175878n
+contagious agalactia,s05226776n
+angular cheilitis due to nutritional deficiencies,s07556499n
+bacterial angular cheilitis,s07556500n
+fungal angular cheilitis,s07556501n
+iliopsoas abscess,s07765412n
+acute necrotizing pancreatitis,s23769821n
+immune complex mediated vasculitis,s05568593n
+indolent lymphoma,s25490357n
+extraskeletal myxoid chondrosarcoma,s23877959n
+colorectal cancer screening,s10551232n
+tumor surgery,s07193522n
+particle therapy,s24533963n
+high-dose vitamin C for cancer therapy,s24546204n
+uterine corpus cancer,s18137698n
+in situ lymphoid neoplasia,s24378157n
+satellite metastasis,s16061429n
+autonomous adenoma,s05541051n
+multicystic intraosseous ameloblastoma,s06847175n
+unicystic ameloblastoma,s06847176n
+peripheral ameloblastoma,s06847178n
+choroidal melanoma,s06771878n
+nasal cavity inverting papilloma,s06251515n
+pediatric-type follicular lymphoma,s24721853n
+duodenal-type follicular lymphoma,s24754670n
+vocal cord polyps,s04110982n
+cardiac polyp,s05465616n
+bladder polyp,s11033890n
+Juvenile polyp,s26046670n
+immune-mediated cerebellar ataxia,s18264873n
+infantile cerebral palsy,s08492605n
+multicystic encephalomalacia,s06035691n
+hepatocerebral degeneration,s05296533n
+pituitary atrophy,s05077884n
+acute inflammation of the pituitary gland,s05077890n
+pituitary hyperplasia,s05077904n
+hypothalamic dysfunction,s06258492n
+diencephalic syndrome,s06293948n
+dysarthria-clumsy hand syndrome,s16103679n
+motor psychosis,s05413143n
+involuntary movement,s07797952n
+involuntary movements,s08740716n
+audiogenic epilepsy,s10021487n
+SYNGAP1-related intellectual disability,s26164745n
+cavernous sinus syndrome,s05517763n
+radicular syndrome,s05191547n
+cervical radiculopathy,s06319536n
+amyotrophic neuralgia,s23908282n
+Islamophobia in the UK Conservative Party,s22528030n
+xenophobia and racism related to the COVID-19 pandemic,s25435328n
+Asylum seekers with apathetic refugee children,s08568487n
+vascular leak syndrome,s05388689n
+alcoholism in adolescence,s05369773n
+primary bladder neck obstruction,s26354819n
+cycloid psychosis,s05413359n
+schizophrenic dementia,s06100197n
+chloramphenicol-induced aplastic anemia,s06258426n
+tachycardia-induced cardiomyopathy,s05141231n
+fatty heart,s05178323n
+rupture of gastrocnemius muscle,s05659826n
+groin strain,s05333577n
+crossed syndrome,s25302004n
+obstetrical disseminated intravascular coagulation,s09724965n
+Immune-mediated hemolytic anemia,s07017629n
+cold autoimmune hemolytic anemia,s06816611n
+mixed-type autoimmune hemolytic anemia,s23927761n
+reactive thrombocytosis,s16078216n
+Determann syndrome,s16849930n
+pseudoradicular syndrome,s05583299n
+amniotic fluid infection,s05238807n
+umbilical cord knot,s05348269n
+nuchal cord,s05422076n
+face presentation,s06496215n
+ovarian vein thrombosis,s05271774n
+jugular vein thrombosis,s05302070n
+gang stalking,s27990688n
+visual hallucinations in psychosis,s21729059n
+paranoid syndrome,s05940024n
+Postarthroscopic glenohumeral chondrolysis,s21714846n
+amyloid-beta related angiitis,s05312415n
+childhood dysphonia,s08544650n
+muscle tension dysphonia,s24770197n
+Vocal cord granuloma,s05309796n
+paradoxical vocal cord motion disorder,s10843193n
+disease dangerous to society,s08582256n
+over elevation in adduction,s05224011n
+Opto-mnestic aphasia,s21313926n
+ōichō,s08135336n
+Apollinaris Syncletica,s24519494n
+Archelais and Companions,s26116276n
+Albertinische Wasserleitung,s05269223n
+water distribution system,s05389740n
+water-leading fitting for firefighting,s05495568n
+brine pipeline,s05558728n
+Mannum–Adelaide pipeline,s22216551n
+water pipes of Vindonissa,s24484387n
+Waterwork Eur Rome,s26133130n
+EUR piezometric water tower,s27590906n
+Neue Wasserkunst,s04076991n
+Landauer Wasserkunst,s05138711n
+Wasserkunst Wismar,s05234101n
+Wasserkunst Herrenhausen,s26321569n
+Ehemalige Soleleitung am Thumsee,s22696442n
+food fetish,s06511045n
+Pants Fetish,s07704371n
+buttocks fetishism,s25273685n
+SM girl,s07860879n
+attention whore,s28683337n
+childhood trauma,s21793330n
+Acanthamoeba castellanii infection,s06254663n
+multifield irradiation,s10450758n
+Negative ion products,s29023477n
+intraarterial chemotherapy,s08513742n
+VIM chemotherapy,s23930203n
+metronomic therapy,s26357725n
+congenital hemangioma,s23783927n
+T cell/histiocyte-rich large B-cell lymphoma,s25418098n
+Primary testicular diffuse large B-cell lymphoma,s25446560n
+"Primary cutaneous diffuse large B-cell lymphoma, leg type",s25477062n
+diffuse large B-cell lymphoma associated with chronic inflammation,s25533261n
+spinocerebellar ataxia with epilepsy,s05527771n
+embolic stroke of undetermined source,s21811738n
+Lance-Adams syndrome,s14398687n
+Palmaris brevis spasm syndrome,s23633984n
+extrapyramidal hyperkinesia,s05350192n
+pusher syndrome,s05367245n
+relieving posture,s05586284n
+Decerebrate posturing,s07828349n
+Superior orbital fissure syndrome,s05379772n
+Obstetrical brachial plexus palsy,s05562305n
+ulnar palsy,s05381136n
+Cheiralgia paresthetica,s05224254n
+posterior interosseous nerve syndrome,s05302045n
+Nacionalismo Lusitano,s18412155n
+Donath–Landsteiner hemolytic anemia,s23899475n
+back strain,s23863567n
+imperative hallucination,s06495501n
+teething disorder,s05353582n
+acquired antibiotic resistance,s06762618n
+internalized homophobia,s06809399n
+discrimination against gay men,s24464365n
+李花集,s09710872n
+antituberculous drug,s05194149n
+gyrase inhibitor,s05386693n
+nucleoside antibiotics,s17894480n
+Moenomycin family antibiotics,s24088174n
+antimycin A,s29747223n
+Dakin's solution,s22159952n
+anti-influenza drug,s10837688n
+direct acting antiviral,s11324987n
+peroxide-based bleach,s21813657n
+Scopinaro procedure,s06972463n
+cross-dressing in music and opera,s23904379n
+leg fetishism,s23618748n
+Leg fetishism,s23695917n
+sneaker fetishism,s06510428n
+cast fetishism,s06789004n
+cross-site authentication attack,s05588957n
+Dirty COW,s21717389n
+Lazy FP state restore,s22140915n
+Microarchitectural Data Sampling,s24241962n
+Transient execution CPU vulnerability,s24417653n
+Load value injection,s25547636n
+cache poisoning,s27287986n
+Siberian gold rush,s10170015n
+Montana Gold Rush,s23309796n
+Coromandel gold rush,s23624343n
+Kildonan Gold Rush,s24500019n
+antibody-drug conjugate,s05345199n
+Selenium mustard,s26420944n
+fibrin-associated diffuse large B-cell lymphoma,s25575811n
+acute epidural hematoma,s18203424n
+Persistent primary teeth,s17967382n
+insulin allergy,s06035667n
+ichōmage,s09792038n
+interferon type I,s27267578n
+Nucleoside analogue reverse transcriptase inhibitors,s06565779n
+molecular condom,s05740786n
+cross-dressing saints,s28161768n
+esophageal motility disorder,s05912805n
+esophageal polyp,s05349847n
+fundic gland polyp,s26510309n
+front teeth pipe smoker hole,s05405568n
+tooth development disorder,s05523283n
+tooth cavity,s06758637n
+foodborne acid erosion,s06760033n
+external dental fistula,s08087612n
+non-carious cervical lesions,s11181464n
+colonic diverticulosis,s06972666n
+colonic atresia,s24763964n
+atresia of small intestine,s24857058n
+duplication of intestine,s05159895n
+primary ruminal tympany,s07755152n
+Curly tail cat,s16902328n
+infectious serositis of ducks,s05218022n
+spiking mortality of chicken,s05762286n
+broiler ascites syndrome,s06761746n
+chicken malaria,s07814871n
+hypercapnic coma,s05590115n
+pituitary coma,s06042206n
+hypotonic-hyporesponsive episode,s21749390n
+vaccine shedding,s21798081n
+vaccine-associated enhanced respiratory disease,s27418710n
+postoperative wounds infection,s06773951n
+US-Bangla Airlines Flight 211,s21759278n
+Delta Air Lines Flight 1080,s21799869n
+Air Vanuatu Flight 241,s22328814n
+United Airlines Flight 863,s22362946n
+Aeroflot Flight 1492,s24214385n
+Pilgrim Airlines Flight 458,s25006483n
+Delta Air Lines Flight 89,s25382310n
+Ryanair Flight 4978,s27825320n
+Delta Air Lines Flight 1581,s28535999n
+NK-cell leukemia / lymphoblastic lymphoma,s22102916n
+fibrillary glomerulonephritis,s05269729n
+allergy to crickets,s06075176n
+Phlebotomus bite allergy,s05957881n
+mosquito bite allergy,s05999645n
+Stomoxosis,s06073172n
+beetle poisoning,s06051077n
+midges bites,s06046514n
+Hippobosca bite,s06046608n
+insect sting,s06769759n
+mosquito bite,s08672140n
+Würth Collection,s04075406n
+Collection Zimmermann,s05162151n
+Ismar Littmann art collection,s05440382n
+Vanhaerents Art Collection,s06493116n
+Reijtenbagh Art Collection,s06530488n
+Anton Herbert Collection,s06595854n
+Koenigs collection,s06768595n
+Jef Rademakers Collection,s10171967n
+Fürstenberg Collection,s17908097n
+Col·lecció Pere Permanyer,s18075813n
+Collection Philippe Decelle,s18158990n
+P. and N. de Boer Foundation,s18159102n
+The Jos Knaepen Collection,s18164431n
+The Phoebus Foundation,s22226961n
+Collectie Charles Catteau,s23754662n
+Nahmad Collection,s23999063n
+Alana collection,s25261134n
+contact transmission,s25333083n
+HIV/AIDS in Portugal.,s18403576n
+HIV/AIDS in France,s27030214n
+avian influenza H5N1 in Denmark 2006,s09213420n
+2021 global supply chain crisis,s28564755n
+COVID-19 lockdown in the United Kingdom,s28894808n
+Center for COVID Control,s29075381n
+hair bleaching,s29093481n
+accelerated hydrogen peroxide,s26627201n
+skin disinfection,s25112895n
+Horse well,s16337767n
+partial gastrectomy,s06777749n
+gastric balloon,s21752717n
+irritant contact dermatitis due to oils and greases,s05588276n
+commotio thoracis,s05252123n
+Abdominal bruise,s18267389n
+spiritual drunkenness,s23436750n
+incubus dream,s06346582n
+Salt craving,s11595761n
+problematic social media use,s23766901n
+sudden exercise abstinence syndrome,s17928835n
+infection-induced anorexia,s25306610n
+dick pic,s25055712n
+Digital voyeurism,s05066528n
+Temtamy syndrome,s23713478n
+invasive ductal carcinoma,s05234733n
+foot fracture,s25038640n
+shoulder fracture,s27893581n
+invasive ductal carcinoma,s05234733n
+chronic obstructive bronchitis,s05863336n
+plastic bronchitis,s24115704n
+candidiasis in birds,s05768294n
+invasive ductal carcinoma,s05234733n
+vaginal carcinoma,s25460090n
+dilated cardiac chambers,s11185862n
+Eustachian catarrh,s05173366n
+Purulent catarrh,s08062107n
+chronic critical illness,s22126020n
+MDR1 multiple drug sensitivity,s05575046n
+inherited tumor,s05578716n
+Ashkenazi diseases,s06265046n
+synpolydactyly type 1,s06265346n
+progressive pseudorheumatoid arthropathy of childhood,s06265886n
+Joubert syndrome with oculorenal defect,s06278450n
+cortical hyperostosis,s06279883n
+sex-influenced disease,s06467901n
+"Severe X-linked intellectual disability, Gustavson type",s08743108n
+Hooft disease,s08743203n
+posterior polymorphous corneal dystrophy 2,s10935620n
+posterior polymorphous corneal dystrophy 3,s10935621n
+acral mutilation syndrome,s17954491n
+"ataxia, deafness and cardiomyopathy",s17960360n
+NGLY1 deficiency,s21722059n
+keratoendotheliitis fugax hereditaria,s21754859n
+alcohol intolerance,s21769197n
+brachydactyly type D,s21806768n
+Crosby's syndrome,s21885507n
+canine pituitary dwarfism,s22250721n
+familial eosinophilia,s22290448n
+Warsaw breakage syndrome,s23003242n
+3-methylglutaconic aciduria type 1,s23587760n
+microcephalic osteodysplastic primordial dwarfism type I,s23725551n
+brachydactyly type C,s23755543n
+Abdominal chemodectomas with cutaneous angiolipomas,s23809891n
+Sorsby's fundus dystrophy,s23863702n
+Recessive dystrophic epidermolysis bullosa,s24043986n
+rigid spine syndrome,s24067935n
+aromatic L-amino acid decarboxylase deficiency,s24715153n
+Leucine-sensitive hypoglycemia of infancy,s25042729n
+Mitochondrial complex II deficiency,s26005984n
+enhanced S-cone syndrome,s26725315n
+Perry syndrome,s27031692n
+X-linked intellectual disability-hypotonic face syndrome,s27397000n
+Schimke syndrome,s28021908n
+Cousin Syndrome,s28497828n
+Radica and Doodica,s21951361n
+Lucio and Simplicio Godino,s21952052n
+Ganga and Jamuna Shreshta,s22169175n
+Radhika and Dudhika Nayak,s23594581n
+parasitic twin,s27267466n
+Katie and Eilish Holton,s28554691n
+intentional contagion of infection,s24723994n
+coronavirus disease,s26690487n
+Katie and Eilish Holton,s28554691n
+intentional contagion of infection,s24723994n
+coronavirus disease,s26690487n
+bedtime procrastination,s27458400n
+renal cyst,s07049980n
+oral cyst,s16165080n
+epididymal cyst,s22230633n
+cervical thymic cyst,s24101194n
+nasopharyngeal cyst,s24952025n
+Dissociative stupor,s10836356n
+post-traumatic arthrosis,s05125996n
+shoulder arthritis,s05146389n
+elbow osteoarthritis,s05338472n
+varus gonarthrosis,s05551699n
+sacroiliac osteoarthritis,s05589251n
+glenohumeral arthrosis,s05849374n
+Post-traumatic arthritis,s21802370n
+sebum deficiency eczema,s08148520n
+cutaneous haemorrhage,s05523600n
+skin plaque,s06469323n
+epidermal nevus,s06496218n
+demodectic mange in cats,s17305311n
+Spitzoid lesion,s21898050n
+cutaneous lupus erythematosus,s21900632n
+application site reaction,s24136987n
+immersion foot syndrome,s27269426n
+postinfectious encephalitis,s06319440n
+Hendra virus infection,s24817971n
+Vidian neuralgia,s06273222n
+skin burn complication,s05871411n
+cardiac allograft vasculopathy,s23839220n
+endocardiosis in dogs,s05126254n
+dachshund paralysis,s05187621n
+monogenic disease,s05219062n
+copper toxicosis,s05298558n
+gonadal agenesis,s05320940n
+canine neuronal ceroid lipofuscinoses,s05384252n
+Lundehund syndrome,s05454678n
+psychogenic mental retardation,s05259805n
+loss of reality,s05581941n
+emotional disorder,s05747843n
+behavioral disorder associated with intellectual disabilities,s06528194n
+hysterical psychosis,s08606437n
+endogenous mental disorder,s16438332n
+serious mental illness,s18162170n
+psychopathological syndrome,s23517195n
+racial trauma,s24288958n
+Adele syndrome,s25086900n
+chordoid glioma,s27037522n
+diffuse astrocytoma,s27262709n
+iterative fracture,s05317398n
+leg fracture,s06048546n
+open fracture,s21801231n
+Busch fracture,s23322406n
+esophageal diverticulum,s05152471n
+duodenal diverticulum,s05234523n
+primordial dwarfism,s27269413n
+Murray Valley encephalitis,s05145677n
+subclinical endometritis,s06522885n
+low compliance bladder,s05454879n
+urge incontinence,s06447256n
+reflex incontinence,s06451492n
+extraurethral incontinence,s06451493n
+coital incontinence,s24377876n
+red man syndrome,s05329048n
+eye irritation,s06295772n
+eye inflammation,s06782566n
+dog eye disease,s07170366n
+eye allergy,s08571555n
+optic neuritis,s27270062n
+internal hordeolum,s06762026n
+subcutaneous filariasis,s19831756n
+serous cavity filariasis,s24739465n
+urachal fistula,s21773975n
+Tracheoinnominate fistula,s23745031n
+Ceratophyllus pulicosis,s06046725n
+Ctenocephalides flea pulicosis,s06046737n
+Nosopsyllus flea pulicosis,s06050748n
+affective seizure,s05070540n
+food infection,s06784039n
+white kidney bean incident,s18278495n
+alimentary toxic aleukia,s22230043n
+Japan Air Lines food poisoning incident,s24123357n
+foodborne disease outbreak,s25580152n
+pituitary gigantism,s09219533n
+Schloffer tumor,s05146102n
+Umbilical granuloma,s06779091n
+intubation granuloma,s26363050n
+red band needle blight,s14085264n
+Cyclaneusma minus needle cast,s14085425n
+Spruce needle rust,s14117521n
+horse chestnut leaf blotch,s14117916n
+brown felt blight,s14123940n
+gray mold spot,s14126063n
+canker stain of plane,s14127701n
+periwinkle rust,s14128372n
+Sphaeropsis blight,s14130392n
+powdery mildew of grape,s14130413n
+black spot of elm,s14130487n
+Leaf and shoot blight of aspen,s14130584n
